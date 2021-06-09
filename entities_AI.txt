@@ -1,0 +1,3105 @@
+﻿A(s) (actions in a state)
+A* search
+AAAI (American Association for AI)
+ABC computer
+ABO (Asymptotic Bounded Optimality)
+absolute error
+abstraction
+abstraction hierarchy
+ABSTRIPS
+AC
+Academy Award
+accessibility relations
+accusative case
+acoustic model
+in disambiguation
+ACT
+ACT*
+acting rationally
+action
+high-level
+joint
+monitoring
+primitive
+rational
+action-utility function
+action exclusion axiom
+action monitoring
+action schema
+activation function
+active learning
+active sensing
+active vision
+actor
+actuator
+actuators
+hydraulic
+pneumatic
+AD-tree
+ADABOOST
+adalines
+Ada programming language
+adaptive control theory
+adaptive dynamic programming
+adaptive perception
+add-one smoothing
+add list
+ADL (Action Description Language)
+admissible heuristic
+Adorf H-M
+ADP (Adaptive Dynamic Programming)
+adversarial search
+adversarial task
+adversary argument
+Advice Taker
+AFSM
+agent
+active
+architecture of
+autonomous
+components
+decision-theoretic
+goal-based
+greedy
+hybrid
+intelligent
+knowledge-based
+learning
+logical
+model-based
+online planning
+passive
+passive ADP
+passive learning
+problem-solving
+reflex
+situated
+software agent
+taxi-driving
+utility-based
+vacuum
+wumpus
+agent function
+agent program
+aggregation
+agreement (in a sentence)
+airport driving to
+airport siting
+AI Winter
+al-Khowarazmi
+Alexandria
+algorithm
+algorithmic complexity
+Alhazen
+alignment method
+Allais paradox
+Alldiff constraint
+alliance (in multiplayer games)
+Almanac Game
+ALPAC
+α (normalization constant)
+alpha–beta pruning
+alpha–beta search
+ALPHA-BETA-SEARCH
+altruism
+Alvey report
+AM
+ambient illumination
+ambiguity
+lexical
+semantic
+syntactic
+ambiguity aversion
+analogical reasoning
+ANALOGY
+analysis of algorithms
+Analytical Engine
+analytical generalization
+Anbulagan
+anchoring effect
+anchor text
+AND–OR graph
+And-Elimination
+AND-OR-GRAPH-SEARCH
+AND–OR tree
+AND-SEARCH
+AND node
+ANGELIC-SEARCH
+angelic semantics
+answer literal
+answer set programming
+antecedent
+anytime algorithm
+aortic coarctation
+apparent motion
+appearance
+appearance model
+APPEND
+applicable
+apprenticeship learning
+approximate near-neighbors
+arc consistency
+architecture
+cognitive
+for speech recognition
+parallel
+pipeline
+reflective
+rule-based
+three-layer
+arc reversal
+argmax
+argument
+from disability
+from informality
+Aristotle
+arity
+ARPAbet
+artificial flight
+Artificial General Intelligence
+artificial intelligence
+applications of
+conferences
+foundations
+future of
+goals of
+history of
+journals
+philosophy of
+possibility of
+programming language
+real-time
+societies
+strong
+subfields
+as universal field
+weak
+artificial life
+artificial urea
+asbestos removal
+ASKMSR
+assertion (logical)
+assignment (in a CSP)
+associative memory
+assumption
+astronomer
+asymptotic analysis
+asymptotic bounded optimality
+atom
+atomic representation
+atomic sentence
+attribute
+attribute-based extraction
+auction
+ascending-bid
+Dutch
+English
+first-price
+sealed-bid
+second-price
+truth-revealing
+Vickrey
+augmentation
+augmented finite state machine (AFSM)
+augmented grammar
+AURA
+Australia
+authority
+AUTOCLASS
+automata
+automated debugging
+automated taxi
+automobile insurance
+autonomic computing
+autonomous underwater vehicle (AUV)
+autonomy
+average reward
+axiom
+action exclusion
+of Chinese room
+decomposability
+domain-specific
+effect axiom
+frame axiom
+Kolmogorov’s
+of number theory
+of probability
+Peano
+precondition
+of set theory
+successor-state
+of utility theory
+wumpus world
+axon
+b∗ (branching factor)
+B* search
+bachelor
+BACK-PROP-LEARNING
+back-propagation
+backgammon
+background knowledge
+background subtraction
+backjumping
+backmarking
+backoff model
+BACKTRACK
+backtracking chronological
+dependency-directed
+dynamic
+BACKTRACKING-SEARCH
+backtracking search
+Backus–Naur form (BNF)
+backward chaining
+backward search for planning
+bagging
+bag of words
+bandit problem
+bang-bang control
+baseline
+basic groups
+basis function
+Batman
+bats
+Bayes’ rule
+Bayes–Nash equilibrium
+Bayesian
+Bayesian classifier
+Bayesian learning
+Bayesian network
+inference in
+learning hidden variables in
+learning in
+multi-entity
+Bayes Net toolkit
+beam search
+beer factory scheduling
+beetle dung
+behaviorism
+belief
+degree of
+desires and
+belief function
+belief revision
+belief state
+in game theory
+probabalistic
+wiggly
+belief update
+BELLE
+Bell Labs
+Bellman equation
+Bellman update
+benchmarking
+BENINQ
+BESM
+best-first search
+best possible prize
+beta distribution
+betting game
+BGBLITZ
+bias declarative
+biconditional
+bidirectional search
+bilingual corpus
+billiards
+binary decision diagram
+binary resolution
+binding list
+binocular stereopsis
+binomial nomenclature
+bioinformatics
+biological naturalism
+BKG (backgammon program)
+BLACKBOX
+blocks world
+BLOG
+bluff
+BM
+scoring function
+BNF (Backus–Naur form)
+BO
+body (of Horn clause)
+boid
+Boltzmann machine
+Boolean keyword model
+boosting
+bootstrap
+BOSS
+boundary set
+bounded optimality (BO)
+bounded rationality
+bounds consistent
+bounds propagation
+BOXES
+Boyen–Koller algorithm
+Boyer–Moore theorem prover
+Brahmagupta
+brain
+computational power
+computer vs
+damage optimal
+replacement
+super
+in a vat
+brains cause minds
+branching factor
+effective
+BREADTH-FIRST-SEARCH
+breadth-first search
+bridge (card game)
+Bridge Baron
+BUGS
+BUILD
+bunch
+burglar alarm
+Burkhard H-D
+Canny edge detection
+canonical distribution
+canonical form
+card games
+CARMEL
+Carnegie Mellon University
+cart–pole problem
+cascaded finite-state transducers
+case-based reasoning
+brightness
+case agreement
+case folding
+Britain
+c (step cost)
+caching
+cake eating and having
+calculus
+calculus of variations
+Cambridge
+camera
+digital
+for robots
+pinhole
+stereo
+time of flight
+video
+candidate elimination
+can machines think?
+case statement (in condition plans)
+categorization
+category
+causal rule
+causation
+caveman
+CCD (charge-coupled device)
+cell decomposition
+exact
+cell layout
+center (in mechanism design)
+central limit theorem
+cerebral cortex
+certainty effect
+certainty equivalent
+certainty factor
+CGP
+CHAFF
+chain rule (for differentiation)
+chain rule (for probabilities)
+chance node (decision network)
+chance node (game tree)
+chance of winning
+Chang C-L
+Chang K-M
+channel routing
+characters
+charge-coupled device
+chart parser
+chatbot
+checkers
+checkmate
+accidental
+guaranteed
+probabilistic
+chemistry
+automaton
+history
+prediction
+CHESS
+pruning
+CHILD-NODE
+CHILL
+chimpanzee
+Chinese room
+CHINOOK
+choice point
+Chomsky Normal Form
+Christmas
+chronicles
+chronological backtracking
+cHUGIN
+chunking
+CIGOL
+circuit verification
+circumscription
+prioritized
+city block distance
+clairvoyance
+Clark completion
+CLASSIC
+classification (in description logic)
+classification (in learning)
+class probability
+clause
+CLINT
+closed-world assumption
+closed class
+CLP(R)
+clustering
+clustering (in Bayesian networks)
+clutter (in data association)
+CMAC
+CMU
+CN
+CNF (Conjunctive Normal Form)
+CNLP
+co-NP
+co-NP-complete
+coarticulation
+coastal navigation
+coercion
+cognitive architecture
+cognitive modeling
+cognitive psychology
+cognitive science
+coin flip
+COLBERT
+collusion
+color
+color constancy
+combinatorial explosion
+commitment
+epistemological
+ontological
+common sense
+common value
+communication
+commutativity (in search problems)
+competitive ratio
+compilation
+complementary literals
+complete-state formulation
+complete assignment
+complete data
+completeness
+of inference
+of a proof procedure
+of resolution
+of a search algorithm
+completing the square
+completion (of a data base)
+complexity
+sample
+space
+time
+complexity analysis
+complex phrases
+complex sentence
+complex words
+compliant motion
+component (of mixture distribution)
+composite decision process
+composite object
+compositionality
+compositional semantics
+compression
+computability
+computational learning theory
+computational linguistics
+computer
+brain vs
+computer vision
+conclusion (of an implication)
+concurrent action list
+condensation
+condition–action rule
+conditional distributions
+conditional effect
+conditional Gaussian
+conditional independence
+conditional plan
+conditional probability
+conditional probability table (CPT)
+conditional random field (CRF)
+conditioning
+conditioning case
+configuration space
+confirmation theory
+conflict-directed backjumping
+conflict clause learning
+conflict set
+conformant planning
+conjugate prior
+conjunct
+conjunction (logic)
+conjunctive normal form
+conjunct ordering
+connected component
+Connect Four
+connectionism
+connective logical
+consciousness
+consequent
+conservative approximation
+consistency
+arc
+of a CSP assignment
+of a heuristic
+path
+consistency condition
+CONSISTENT-DET?
+consistent estimation
+conspiracy number
+constant symbol
+constraint
+binary
+global
+nonlinear
+preference constraint
+propagation
+resource constraint
+symmetry-breaking
+unary
+constraint-based generalization
+constraint graph
+constraint hypergraph
+constraint language
+constraint learning
+constraint logic programming
+constraint logic programming (CLP)
+constraint optimization problem
+constraint satisfaction problem (CSP)
+constraint weighting
+constructive induction
+consumable resource
+context
+context-free grammar
+context-sensitive grammar
+contingencies
+contingency planning
+continuation
+continuity (of preferences)
+continuous domains
+contour (in an image)
+contour (of a state space)
+contraction mapping
+contradiction
+controller
+control theory
+adaptive
+robust
+control uncertainty
+convention
+conversion to normal form
+convexity
+convex optimization
+CONVINCE
+convolution
+cooperation
+coordinate frame
+coordination
+coordination game
+Copernicus
+COQ
+corpus
+correlated sampling
+cotraining
+count noun
+Cournot competition
+covariance
+covariance matrix
+CPCS
+CPLAN
+CPSC ix
+CPT
+CYBERLOVER
+cybernetics
+CYC
+cyclic solution
+CYK-PARSE
+CYK algorithm
+DBN
+DBPEDIA
+DCG
+DDN (dynamic decision network)
+dead end
+creativity
+CRF
+critic (in learning)
+critical path
+CROSS-VALIDATION
+cross-validation
+CROSS-VALIDATION-WRAPPER
+crossover
+crossword puzzle
+cryptarithmetic
+culling
+cult of computationalism
+cumulative distribution
+cumulative learning
+cumulative probability density function
+curiosity
+current-best-hypothesis
+CURRENT-BEST-LEARNING
+curse
+of dimensionality
+optimizer’s
+winner’s
+cutoff test
+cutset
+cutset cycle
+cutset conditioning
+d-separation
+DAG
+DALTON
+Danish
+DARKTHOUGHT
+DARPA
+DARPA Grand Challenge
+Dartmouth workshop
+data-driven
+data association
+database
+database semantics
+data complexity
+data compression
+Datalog
+data matrix
+data mining
+data sparsity
+dative case
+Davis–Putnam algorithm
+debugging
+decision
+sequential
+DECISION-LIST-LEARNING
+DECISION-TREE-LEARNING
+decision analysis
+decision boundary
+decision list
+decision maker
+decision making
+decision network
+evaluation of
+decision node
+decision stump
+decision theory
+decision tree
+expressiveness
+declarative
+declarative bias
+declarativism
+decomposability (of lotteries)
+DECOMPOSE
+decomposition
+deductive database
+deductive learning
+deep belief networks
+DEEP BLUE ix
+DEEP FRITZ
+Deep Space One
+DEEP THOUGHT
+default logic
+default reasoning
+default value
+de Finetti’s theorem
+definite clause
+definition (logical)
+deformable template
+degree heuristic
+degree of belief
+interval-valued
+degree of freedom
+degree of truth
+delete list
+deliberative layer
+delta rule
+demodulation
+De Morgan’s rules
+Dempster–Shafer theory
+DENDRAL
+dendrite
+density estimation
+nonparametric
+depth-first search
+DEPTH-LIMITED-SEARCH
+depth limit
+depth of field
+derivational analogy
+derived sentences
+descendant (in Bayesian networks)
+description logic
+descriptive theory
+detachment
+detailed balance
+detection failure (in data association)
+determination
+minimal
+deterministic environment
+deterministic node
+DEVISER
+Dewey Decimal system
+diagnosis
+dental
+medical
+diagnostic rule
+dialysis
+diameter (of a graph)
+dictionary
+Difference Engine
+differential drive
+differential equation
+stochastic
+differential GPS
+differentiation
+diffuse albedo
+diffuse reflection
+Digital Equipment Corporation (DEC)
+digit recognition
+Diophantine equations
+Diophantus
+Diplomacy
+directed acyclic graph (DAG)
+directed arc consistency
+direct utility estimation
+Dirichlet distribution
+Dirichlet process
+disabilities
+disambiguation
+discontinuities
+discount factor
+discovery system
+discrete event
+discretization
+discriminative model
+disjoint sets
+disjunct
+disjunction
+disjunctive constraint
+disjunctive normal form
+disparity
+distant point light source
+distortion
+distributed constraint satisfaction
+distribution
+beta
+conditional nonparametric
+cumulative
+mixture
+divide-and-conquer
+DLV
+DNF (disjunctive normal form)
+DOF
+dolphin
+domain
+continuous
+element of
+finite
+infinite
+in first-order logic
+in knowledge representation
+domain closure
+dominance
+strict
+dominant strategy
+dominant strategy equilibrium
+dominated plan (in POMDP)
+domination (of heuristics)
+downward refinement property
+DPLL
+DPLL-SATISFIABLE?
+DRAGON
+drilling rights
+drone
+dropping conditions
+DT-AGENT
+dual graph
+dualism
+duck mechanical
+dung beetle
+DuPont
+duration
+dynamical systems
+dynamic backtracking
+dynamic Bayesian network (DBN)
+dynamic decision network
+dynamic environment
+dynamic programming
+nonserial
+dynamic state
+dynamic weighting
+dystopia
+(English fragment)
+early stopping
+earthquake
+EBL
+economics
+edge (in an image)
+edge detection
+Edinburgh
+EEG
+effect
+missing
+negative
+effector
+efficient auction
+puzzle
+queens problem
+electric motor
+electronic circuits domain
+ELIMINATION-ASK
+ELIZA
+Ellsberg paradox
+EM algorithm
+structural
+embodied cognition
+emergent behavior
+EMNLP
+empirical gradient
+empirical loss
+empiricism
+EMV (expected monetary value)
+fragment
+ENIAC
+ensemble learning
+entailment
+inverse
+entailment constraint
+entropy
+ENUMERATE-ALL
+ENUMERATION-ASK
+environment
+artificial
+class
+competitive
+cooperative
+deterministic
+discrete
+game-playing
+generator
+known
+multiagent
+nondeterministic
+observable
+one-shot
+partially observable
+properties
+semidynamic
+single-agent
+static
+taxi
+uncertain
+unknown
+unobservable
+EPAM (Elementary Perceiver And Memorizer)
+epiphenomenalism
+episodic environment
+epistemological commitment
+EQP
+equality
+equality (in logic)
+equality symbol
+equilibrium
+equivalence (logical)
+ergodic
+error (of a hypothesis)
+error function
+error rate
+ethics
+Euclid
+EURISKO
+Europe
+European Space Agency
+evaluation function
+linear
+event
+atomic
+exogenous
+in probability
+liquid
+event calculus
+evidence
+reversal
+evidence variable
+exclusive or
+execution
+execution monitoring
+executive layer
+exhaustive decomposition
+existence uncertainty
+existential graph
+Existential Instantiation
+Existential Introduction
+expansion (of states)
+expectation
+expected monetary value
+expected utility
+expectiminimax
+complexity of
+expert system
+commercial
+first
+first commercial
+HPP (Heuristic Programming Project)
+Prolog-based
+with uncertainty
+explaining away
+explanation
+explanation-based generalization
+explanation-based learning (EBL)
+explanatory gap
+exploitation
+exploration
+safe
+exploration function
+explored set
+expressiveness (of a representation scheme)
+EXTEND-EXAMPLE
+extended Kalman filter (EKF)
+extension (of a concept)
+extension (of default theory)
+extensive form
+externalities
+extrinsic property
+eyes
+factored representation
+factoring
+failure model
+false alarm (in data association)
+false negative
+false positive
+family tree
+FAST DIAGONALLY DOWNWARD
+FASTDOWNWARD
+FASTFORWARD
+FASTUS
+feature (in speech)
+feature (of a state)
+feature extraction
+feature selection
+feed-forward network
+feedback loop
+FF
+Fifth Generation project
+figure of speech
+filtering
+assumed-density
+evolution
+machine
+finite-domain
+evolutionary psychology
+evolution strategies
+exceptions
+fact
+factor (in variable elimination)
+factored frontier
+finite-state automata
+first-order logic
+first-order probabilistic logic
+fitness (in genetic algorithms)
+fitness landscape
+fixation
+FIXED-LAG-SMOOTHING
+fixed-lag smoothing
+fixed point
+flaw
+fluent
+fly eyes
+FMP see planning fine-motion fMRI
+focal plane
+FOCUS
+focus of expansion
+FOIL
+FOL-BC-ASK
+FOL-FC-ASK
+folk psychology
+FORBIN
+force sensor
+foreshortening
+Forestier J-P
+formulate search execute
+forward–backward
+FORWARD-BACKWARD
+forward chaining
+forward checking
+forward pruning
+forward search for planning
+four-color map problem
+frame
+in representation
+in speech
+problem
+inferential
+frame problem
+representational
+framing effect
+Frankenstein
+FREDDY
+Fredkin Prize
+free space
+free will
+frequentism
+Friendly AI
+frontier
+FRUMP
+fully observable
+function
+total
+functional dependency
+functionalism
+function approximation
+function symbol
+futility pruning
+fuzzy control
+fuzzy logic
+fuzzy set
+g (path cost)
+G-set
+Go¨del number
+gain parameter
+gain ratio
+gait
+Gamba perceptrons
+gambling
+game
+of chance
+dice
+Go
+of imperfect information
+inspection game
+multiplayer
+Othello
+of perfect information
+poker
+pursuit–evasion
+repeated
+robot (with humans)
+Scrabble
+zero-sum
+game playing
+game programs
+GAMER
+game show
+game theory
+combinatorial
+game tree
+Gamma function
+GARI
+Gaschnig’s heuristic
+gate (logic)
+Gaussian distribution
+multivariate
+Gaussian error model
+Gaussian filter
+Gaussian process
+generality
+generalization
+generalization hierarchy
+generalization loss
+generalized arc consistent
+generalized cylinder
+general ontology
+General Problem Solver
+generation (of states)
+generative capacity
+GENETIC-ALGORITHM
+genetic algorithm
+genetic programming
+Geometry Theorem Prover
+Gestalt school
+GIB
+GIBBS-ASK
+Gibbs sampling
+Gittins index
+GLAUBER
+GLIE
+global constraint
+Global Positioning System (GPS)
+Go (game)
+goal
+based agent
+formulation of
+goal-based agent
+goal-directed reasoning
+serializable
+goal clauses
+goal monitoring
+goal predicate
+goal test
+God existence of
+GOFAI
+gold
+Goldbach’s conjecture
+gold standard
+GOLEM
+Good–Turing smoothing
+good and evil
+good old-fashioned AI (GOFAI)
+Google
+Google Translate
+GP-CSP
+GPS (General Problem Solver)
+GPS (Global Positioning System)
+graceful degradation
+gradient
+empirical
+gradient descent
+batch
+grammar
+augmented
+categorial
+context-free
+lexicalized
+context-sensitive
+definite clause (DCG)
+dependency
+induction of
+lexical-functional (LFG)
+phrase structure
+recursively enumerable
+regular
+grammatical formalism
+Grand Prix
+graph
+coloring
+Eulerian
+GRAPH-SEARCH
+graphical model
+GRAPHPLAN
+grasping
+Greece
+greedy search
+grid rectangular
+GRL
+grounding
+ground resolution theorem
+ground term
+grue
+GSAT
+GUS
+Guugu Yimithirr
+H (entropy)
+h (heuristic function)
+hMAP (MAP hypothesis)
+hML (ML hypothesis)
+HACKER
+HAL
+halting problem
+ham
+Hamming distance
+ham sandwich
+hand–eye machine
+handwritten digit recognition
+Hansard
+happy graph
+haptics
+HARPY
+Harvard
+head
+head (of Horn clause)
+Heath Robinson
+heavy-tailed distribution
+Hebbian learning
+hedonic calculus
+Hephaistos
+Herbrand’s theorem
+Herbrand base
+Herbrand universe
+Hessian
+heuristic
+admissible
+composite
+degree
+for planning
+least-constraining-value
+level sum
+Manhattan
+max-level
+min-conflicts
+minimum-remaining-values
+minimum remaining values
+null move
+search
+set-level
+straight-line
+heuristic path algorithm
+Heuristic Programming Project (HPP)
+hexapod robot
+hidden Markov model
+factorial
+hidden Markov model (HMM)
+hidden Markov model (HMM) (HMM)
+hidden unit
+hidden variable
+HIERARCHICAL-SEARCH
+hierarchical decomposition
+hierarchical lookahead
+hierarchical reinforcement learning
+hierarchical structure
+hierarchical task network (HTN)
+higher-order logic
+high level action
+HILL-CLIMBING
+hill climbing
+first-choice
+random-restart
+Hitachi
+hit list
+HITS
+HMM
+Ho Y-C
+HOG feature
+holdout cross-validation
+holistic context
+holonomic
+homeostatic
+homophones
+Homo sapiens
+Hopfield network
+Hopkins Beast
+horizon (in an image)
+horizon (in MDPs)
+horizon effect
+Horn clause
+Horn form
+horse
+HSCP
+HSP
+HSPR
+Hsu F-H
+HTML
+HTN
+HTN planning
+Huang K-C
+hub
+Hubble Space Telescope
+Hubs and Authorities
+HUGIN
+human-level AI
+human judgment
+humanoid robot
+human performance
+human preference
+Hungarian algorithm
+HYBRID-WUMPUS-AGENT
+hybrid A*
+hybrid architecture
+HYDRA
+hyperparameter
+hypertree width
+hypothesis
+approximately correct
+consistent
+null
+prior
+hypothesis prior
+hypothesis space
+iid (independent and identically distributed)
+IBAL
+IBM
+ice cream
+ID
+IDA* search
+identification in the limit
+identity matrix (I)
+identity uncertainty
+idiot Bayes
+IEEE
+ignorance
+practical
+theoretical
+ignore delete lists
+ignore preconditions heuristic
+ILOG
+ILP
+image
+formation
+processing
+segmentation
+imperfect information
+implementation (of a high-level action)
+implementation level
+implication
+implicative normal form
+importance sampling
+incentive
+incentive compatible
+inclusion–exclusion principle
+incompleteness
+theorem
+inconsistent support
+incremental formulation
+incremental learning
+independence
+absolute
+conditional
+context-specific
+marginal
+independent subproblems
+index
+indexical
+indexing
+India
+indicator variable
+indifference principle of
+individual (in genetic algorithms)
+individuation
+induced width
+induction
+constructive
+mathematical
+inductive learning
+inductive logic programming (ILP)
+inference
+inference procedure
+inference rule
+inferential equivalence
+inferential frame problem
+infinite horizon problems
+influence diagram
+INFORMATION-GATHERING-AGENT
+information extraction
+information gain
+information gathering
+information retrieval (IR)
+information sets
+information theory
+information value
+informed search
+infuence diagram
+inheritance
+multiple
+initial state
+input resolution
+inside–outside algorithm
+instance (of a schema)
+instance-based learning
+insufficient reason principle of
+insurance premium
+intelligence
+intelligent backtracking
+intentionality
+intentional state
+intercausal reasoning
+interior-point method
+interleaving
+interleaving (actions)
+interleaving (search and action)
+interlingua
+internal state
+Internet search
+Internet shopping
+interpolation smoothing
+interpretation
+extended
+intended
+pragmatic
+interreflections
+interval
+intractability
+intrinsic property
+introspection
+intuition pump
+inverse (of a matrix)
+inverse entailment
+inverse game theory
+inverse kinematics
+inverse reinforcement learning
+inverse resolution
+inverted pendulum
+inverted spectrum
+IPL
+IPP
+IQ test
+IR
+irrationality
+irreversible
+IS-A links
+ISBN
+ISIS
+ITEP
+ITEP chess program
+ITERATIVE-DEEPENING-SEARCH
+iterative deepening search
+iterative expansion
+iterative lengthening search
+ITOU
+IXTET
+JACK
+Jacquard loom
+Jaguar
+joint action
+joint probability distribution
+full
+join tree
+Jouannaud J-P
+Juang B-H
+justification (in a JTMS)
+janitorial science
+Japan
+job
+job-shop scheduling problem
+k-consistency
+k-DL (decision list)
+k-DT (decision tree)
+k-d tree
+k-fold cross-validation
+Kalman filter
+switching
+Kalman gain matrix
+KB
+KB-AGENT
+kernel
+kernel function
+polynomial
+kernelization
+kernel machine
+kernel trick
+Kietz J-U
+killer move
+Kim J-H
+kinematics
+kinematic state
+kinship domain
+KL-ONE
+KNOWITALL
+knowledge acquisition
+and action
+background
+base (KB)
+commonsense
+diagnostic
+engineering
+for decision-theoretic systems
+level
+knowledge-based agents
+knowledge-based system
+knowledge compilation
+knowledge map see Bayesian network
+knowledge representation
+analogical
+everything
+language
+Kolmogorov’s axioms
+Kolmogorov complexity
+Kowalski form
+Kriegspiel
+KRYPTON
+Ktesibios of Alexandria
+Kuhns J-L
+L-BFGS
+label (in plans)
+LAMA
+Lambert’s cosine law
+Lambertian surface
+landmark
+landscape (in state space)
+abhors synonyms
+formal
+model
+natural
+translation
+understanding
+language generation
+language identification
+Laplace smoothing
+large-scale learning
+Lassez J-L
+latent Dirichlet allocation
+latent semantic indexing
+latent variable
+Latombe J-C
+lattice theory
+LAWALY
+laws of thought
+layers
+laziness
+LCF
+leaf node
+leak node
+leaping to conclusions
+apprenticeship
+assessing performance
+blocks-world
+computational theory
+decision lists
+decision trees
+determinations
+element
+ensemble
+explanation-based
+heuristics
+hidden variables
+incremental
+inductive
+instance-based
+knowledge in
+linearly separable functions
+MAP
+maximum likelihood
+metalevel
+mixtures of Gaussians
+naive Bayes
+neural network
+new predicates
+noise
+online
+PAC
+parameter
+rate of
+reinforcement
+relational
+relevance-based
+restaurant problem
+statistical
+temporal difference
+top-down
+to search
+unsupervised
+utility functions
+learning curve
+least-constraining-value heuristic
+least commitment
+leave-one-out cross-validation (LOOCV)
+Lee C-H
+Lee K-H
+Lee R C-T
+Lee T-M
+legal reasoning
+Leipzig
+Lempel-Ziv-Welch compression (LZW)
+lens system
+level (in planning graphs)
+level cost
+leveled off (planning graph)
+LEX
+lexical category
+lexicalized grammar
+lexicalized PCFG
+lexicon
+LFG
+liability
+life insurance
+lifting
+in probabilistic inference
+lifting lemma
+light
+Lighthill report
+likelihood
+LIKELIHOOD-WEIGHTING
+likelihood weighting
+limited rationality
+linear-chain conditional random field
+linear algebra
+linear constraint
+linear function
+linear Gaussian
+linearization
+linear programming
+linear regression
+linear resolution
+linear separability
+linear separator
+line search
+linguistics
+link
+link (in a neural network)
+linkage constraints
+Linnaeus
+LINUS
+liquid event
+liquids
+Lisp
+lists
+literal (sentence)
+literal watched
+lizard toasting
+local beam search
+local consistency
+locality
+locality-sensitive hash (LSH)
+localization
+Markov
+locally structured system
+locally weighted regression
+local optimum
+local search
+location sensors
+Loebner Prize
+logic
+atoms
+default
+equality in
+first-order
+semantics
+syntax
+fuzzy
+higher-order
+interpretations
+model preference
+models
+nonmonotonic
+notation
+propositional
+quantifier
+resolution
+sampling
+temporal
+terms
+variable in
+logical connective
+logical inference
+logical minimization
+logical omniscience
+logical piano
+logical positivism
+logical reasoning
+logicism
+logic programming
+inductive (ILP)
+tabled
+Logic Theorist
+LOGISTELLO
+logistic function
+logistic regression
+logit distribution
+log likelihood
+London
+long-distance dependencies
+long-term memory
+LOOCV
+Look ma no hands
+lookup table
+loosely coupled system
+loss function
+lottery
+standard
+love
+low-dimensional embedding
+LPG
+LRTA*
+LRTA*-AGENT
+LRTA*-COST
+LSH (locality-sensitive hash)
+LT
+Lucene
+Luong Q-T
+LZW
+MA* search
+MACHACK
+machine evolution
+machine learning
+machine reading
+machine translation
+macrop (macro operator)
+madalines
+magic sets
+Mahalanobis distance
+Mahaviracarya
+majority function
+makespan
+manipulator
+mantis shrimp
+map
+MAP (maximum a posteriori)
+MAPGEN
+margin
+marginalization
+assumption sensor
+process
+Markov assumption
+Markov blanket
+Markov chain
+Markov chain Monte Carlo (MCMC)
+decayed
+Markov decision process (MDP)
+factored
+partially observable (POMDP)
+Markov games
+Markov network
+Markov process
+Markov property
+mass (in Dempster–Shafer theory)
+mass noun
+mass spectrometer
+materialism
+material value
+mathematical induction schema
+mathematics
+matrix
+Mausam
+MAVEN
+MAX-VALUE
+maximin
+maximin equilibrium
+maximum global
+local
+maximum a posteriori
+maximum expected utility
+maximum margin separator
+max norm
+MAXPLAN
+MBP
+MCC
+MCMC
+MDL
+MDP
+mean-field approximation
+measure
+measurement
+mechanism
+strategy-proof
+mechanism design
+medical diagnosis
+Meet (interval relation)
+Megarian school
+megavariable
+mel frequency cepstral coefficient (MFCC)
+memoization
+memory requirements
+MEMS
+meningitis
+mental model in disambiguation
+mental objects
+mental states
+Mercer’s theorem
+mereology
+Meta-DENDRAL
+metadata
+metalevel state space
+metaphor
+metaphysics
+metareasoning
+metarule
+meteorite
+metonymy
+Metropolis–Hastings
+Metropolis algorithm
+MEXAR
+MGONZ
+MGSS*
+MGU (most general unifier)
+MHT (multiple hypothesis tracker)
+micro-electromechanical systems (MEMS)
+micromort
+Microsoft
+microworld
+military uses of AI
+million queens problem
+MIN-CONFLICTS
+min-conflicts heuristic
+MIN-VALUE
+mind
+dualistic view
+and mysticism
+as physical system
+theory of
+mind–body problem
+minesweeper
+MINIMAL-CONSISTENT-DET
+minimal model
+MINIMAX-DECISION
+minimax algorithm
+minimax decision
+minimax search
+minimax value
+minimum
+minimum description length (MDL)
+minimum slack
+minimum spanning tree (MST)
+MINISAT
+Minkowski distance
+missing attribute values
+missionaries and cannibals
+MIT
+mixed strategy
+mixing time
+mixture distribution
+mixture of Gaussians
+causal
+(in representation)
+sensor
+theory
+transition
+MODEL-BASED-REFLEX-AGENT
+model-based reflex agents
+model checking
+model selection
+Modus Ponens
+Generalized
+MOGO
+monism
+monkey and bananas
+most general unifier (MGU)
+most likely explanation
+most likely state
+motion
+compliant
+guarded
+motion blur
+motion model
+motion parallax
+mutation
+mutex
+mutual exclusion
+mutual preferential independence (MPI)
+mutual utility independence (MUI)
+MYCIN
+myopic policy
+mysticism
+monotone condition
+monotonicity
+motion planning
+of a logical system
+of preferences
+MONTE-CARLO-LOCALIZATION
+Monte Carlo (in games)
+Monte Carlo sequential
+Monte Carlo algorithm
+Monte Carlo localization
+Monte Carlo simulation
+Moore’s Law
+movies
+: A Space Odyssey
+AI
+The Matrix
+The Terminator
+MPI (mutual preferential
+independence)
+MRS (metalevel reasoning system)
+MST
+multiagent environments
+multiagent planning
+multiagent systems
+multiattribute utility theory
+multibody planning
+multiplexer
+multiply connected network
+multivariate linear regression
+MUNIN
+music
+mutagenicity
+n-armed bandit
+n-gram model
+Nadal J-P
+naked
+narrow content
+NASA
+Nash equilibrium
+NASL
+NATACHATA
+natural kind
+natural numbers
+natural stupidity
+navigation function
+nearest-neighbor filter
+nearest-neighbors
+nearest-neighbors regression
+neat vs scruffy
+needle in a haystack
+negation
+negative example
+negative literal
+negligence
+NERO
+network tomography
+feed-forward
+hardware
+multilayer
+perceptron
+radial basis function
+single layer see perceptron neurobiology
+NEUROGAMMON
+neuron
+neuroscience
+computational
+Nixon diamond
+NLP (natural language processing)
+no-good
+no-regret learning
+NOAH
+Nobel Prize
+node
+child
+current in local search
+parent
+node consistency
+noughts and crosses
+NP (hard problems)
+NP-complete
+NQTHM
+NSS chess program
+nuclear power
+number theory
+NUPRL
+NEW-CLAUSE
+noisy-AND
+Newton–Raphson method
+Nine-Men’s Morris
+NIST
+nitroaromatic compounds
+noisy-OR
+noisy channel model
+nominative case
+nondeterminism
+angelic
+demonic
+nondeterministic environment
+nonholonomic
+NONLIN
+NONLIN+
+nonlinear constraints
+nonmonotonicity
+nonmonotonic logic
+Nono
+nonstationary
+nonterminal symbol
+Normal–Wishart
+normal distribution
+normal form
+normalization (of a probability
+distribution)
+normalization (of attribute ranges)
+normative theory
+infix
+prefix
+O() notation
+O’Reilly U-M
+O-PLAN
+object
+object-level state space
+object-oriented programming
+objective case
+objective function
+objectivism
+object model
+observation model
+observation prediction
+observation sentences
+occupancy grid
+occupied space
+occur check
+Ockham’s razor
+odometry
+Odyssey
+Office Assistant
+offline search
+omniscience
+ONLINE-DFS-AGENT
+online learning
+online replanning
+online search
+ontological commitment
+ontological engineering
+ontology
+upper
+open-coding
+open-loop
+open-universe probability model (OUPM)
+open-world assumption
+open class
+OPENCYC
+open list see frontier OPENMIND
+operationality
+operations research
+opponent
+OPS
+optical flow
+optimal brain damage
+optimal controllers
+optimal control theory
+optimality
+optimality (of a search algorithm)
+optimality theory (Linguistics)
+optimally efficient algorithm
+optimal solution
+optimism under uncertainty
+optimistic description (of an action)
+optimistic prior
+optimization
+convex
+optimizer’s curse
+OPTIMUM-AIV
+OR-SEARCH
+orderability
+ordinal utility
+Organon
+orientation
+origin function
+OR node
+Oscar
+OTTER
+OUPM
+outcome
+out of vocabulary
+overfitting
+overgeneration
+overhypotheses
+overriding
+OWL
+P (probability vector)
+PAC learning
+PageRank
+Panini
+PARADISE
+paradox
+Allais
+Ellsberg
+St Petersburg
+parallel distributed processing see
+neural network parallelism
+AND
+OR
+parallel lines
+parallel search
+parameter independence
+parametric model
+paramodulation
+Pareto dominated
+Pareto optimal
+parse tree
+parsing
+partial assignment
+partial evaluation
+partial observability
+partial program
+PARTICLE-FILTERING
+particle filtering
+Rao-Blackwellized
+partition
+part of
+part of speech
+Parzen window
+Pascal’s wager
+PASSIVE-ADP-AGENT
+PASSIVE-TD-AGENT
+loopy
+redundant
+path consistency
+path cost
+PATHFINDER
+path planning
+pattern database
+disjoint
+pattern matching
+Pax
+gene
+payoff function
+PCFG
+P controller
+PD controller
+PDDL (Planing Domain Definition Language)
+PDP (parallel distributed processing)
+Peano axioms
+PEAS description
+peeking
+PEGASUS
+penalty
+PENGI
+penguin
+Pennsylvania Univ of
+Penn Treebank
+Pentagon Papers
+percept
+perception
+perception layer
+convergence theorem
+learning rule
+network
+representational power
+sigmoid
+percept schema
+percept sequence
+perfect information
+perfect recall
+performance element
+performance measure
+perpetual punishment
+perplexity
+persistence action
+persistence arc
+persistent (variable)
+persistent failure model
+perspective
+perspective projection
+pessimistic description (of an action)
+phase transition
+phenomenology
+Philo of Megara
+philosophy
+phone (speech sound)
+phoneme
+phone model
+phonetic alphabet
+photometry
+photosensitive spot
+physicalism
+physical symbol system
+Pickwick Mr
+pictorial structure model
+PID controller
+pigeons
+pineal gland
+ping-pong
+pinhole camera
+Pisa tower of
+pit bottomless
+pixel
+PL-FC-ENTAILS?
+PL-RESOLUTION
+PLAN-ERS
+PLAN-ROUTE
+planetary rover
+PLANEX
+Plankalku¨l
+plan monitoring
+PLANNER
+planning
+and acting
+as constraint satisfaction
+as deduction
+as refinement
+as satisfiability
+case-based
+conformant
+contingency
+decentralized
+fine-motion
+serial
+hierarchical
+hierarchical task network
+multibody
+multieffector
+non-interleaved
+reactive
+regression
+route
+search space
+sensorless
+planning and control layer
+plan recognition
+PlanSAT
+bounded
+plateau (in local search)
+Plato
+player (in a game)
+ply
+poetry
+point-to-point motion
+pointwise product
+Poland
+policy
+evaluation
+improvement
+iteration
+asynchronous
+modified
+loss
+optimal
+proper
+value
+POLICY-ITERATION
+polite convention (Turing’s)
+polytree
+POMDP-VALUE-ITERATION
+Popescu A-M
+population (in genetic algorithms)
+Porphyry
+Port-Royal Logic
+Portuguese
+pose
+positive example
+positive literal
+positivism logical
+possibility axiom
+possibility theory
+possible world
+post-decision disappointment
+posterior probability see probability conditional
+potential field
+potential field control
+pragmatic interpretation
+pragmatics
+precedence constraints
+precision
+precondition axiom
+predecessor
+predicate
+predicate symbol
+preference
+monotonic
+preference elicitation
+preference independence
+premise
+president
+Price Waterhouse
+Princeton
+Principia Mathematica
+PRIOR-SAMPLE
+prioritized sweeping
+priority queue
+prior knowledge
+prior probability
+prismatic joint
+prisoner’s dilemma
+private value
+probabilistic network see Bayesian network
+probabilistic roadmap
+probability
+alternatives to
+axioms of
+conjunctive
+density function
+judgments
+open-universe
+probably approximately correct (PAC)
+PROBCUT
+probit distribution
+airport-siting
+assembly sequencing
+bandit
+constraint optimization
+queens
+formulation
+halting
+inherently hard
+million queens
+n queens
+constrained
+piano movers
+real-world
+relaxed
+robot navigation
+solving
+touring
+toy
+traveling salesperson
+underconstrained
+VLSI layout
+procedural approach
+procedural attachment
+PRODIGY
+production
+racing cars
+radar
+Radio Rex
+production system
+product rule
+PROGOL
+progression
+Prolog
+Prolog Technology Theorem Prover (PTTP)
+pronunciation model
+proof
+proper policy
+property (unary relation)
+proposal distribution
+proposition
+symbol
+propositional attitude
+propositionalization
+propositional logic
+proprioceptive sensor
+PROSPECTOR
+protein design
+prototypes
+forward
+futility
+in contingency problems
+in EBL
+pseudocode
+pseudoexperience
+pseudoreward
+PSPACE
+PSPACE-complete
+psychological reasoning
+psychology
+experimental
+psychophysics
+public key encryption
+Puget J-F
+Q-function
+Q-learning
+Q-LEARNING-AGENT
+QA
+QALY
+QUACKLE
+quadratic dynamical systems
+quadratic programming
+qualia
+qualification problem
+qualitative physics
+qualitative probabilistic network
+quantification
+existential
+in logic
+nested
+universal
+quantization factor
+quasi-logical form
+Qubic
+query (logical)
+query language
+query variable
+question answering
+queue
+FIFO
+LIFO
+priority
+quiescence
+QXTRACT
+RAND Corporation
+randomization
+randomized weighted majority algorithm
+random restart
+random set
+random surfer model
+random variable
+indexed
+random walk
+range finder
+laser
+range sensor array
+rapid prototyping
+Ratio Club
+rational agent
+rationalism
+rationality
+calculative
+limited
+perfect
+rational thought
+rats
+PUMA
+pure strategy
+pure symbol
+RBFS
+RBL
+RDF
+reachable set
+reactive control
+reactive layer
+reactive planning
+real-world problem
+realizability
+reasoning
+intercausal
+recall
+recognition
+recommendation
+reconstruction
+recurrent network
+RECURSIVE-BEST-FIRST-SEARCH
+RECURSIVE-DLS
+recursive definition
+recursive estimation
+reduction
+reference class
+reference controller
+reference path
+referential transparency
+refinement (in hierarchical planning)
+reflectance
+REFLEX-VACUUM-AGENT
+reflex agent
+refutation
+refutation completeness
+regex
+regions
+tree
+regression to the mean
+regret
+regular expression
+regularization
+reification
+REINFORCE
+reinforcement learning
+distributed
+generalization in
+off-policy
+on-policy
+REJECTION-SAMPLING
+rejection sampling
+relation
+relational extraction
+relational probability model (RPM)
+relational reinforcement learning
+relative error
+relaxed problem
+relevance
+relevance (in information retrieval)
+relevance-based learning (RBL)
+relevant-states
+Remote Agent
+REMOTE AGENT
+renaming
+rendering model
+repeated game
+replanning
+REPOP
+representation see knowledge representation
+structured
+representation theorem
+REPRODUCE
+reserve bid
+closure
+completeness proof for
+input
+strategies
+resolvent
+resource constraints
+resources
+response
+restaurant hygiene inspector
+result
+result set
+rete
+retrograde
+reusable resource
+revelation principle
+revenue equivalence theorem
+Reversi
+revolute joint
+reward
+additive
+discounted
+shaping
+reward-to-go
+reward function
+rewrite rule
+ridge (in local search)
+right thing doing the
+risk aversion
+risk neutrality
+risk seeking
+RMS (root mean square)
+Robbins algebra
+Robocup
+robot
+game (with humans)
+hexapod
+mobile
+navigation
+soccer
+robotic agent
+robotics
+robust control
+Rockefeller Foundation
+rollout
+Romania
+Roomba
+root mean square
+rule
+condition–action
+if–then
+situation–action
+rule-based system
+Russia
+RYBKA
+sample complexity
+sample space
+sampling rate
+Sanskrit
+SAPA
+Sapir–Whorf hypothesis
+SARSA
+SAT
+satisfaction (in logic)
+satisfiability
+satisfiability threshold conjecture
+satisficing
+SATMC
+SATPLAN
+saturation
+SATZ
+rotation
+route finding
+RPM
+RSA (Rivest Shamir and Adelman)
+RSAT
+Rubik’s Cube
+S-set
+SAINT
+St Petersburg paradox
+scaled orthographic projection
+scanning lidars
+scene
+scheduling
+schema (in a genetic algorithm)
+schema acquisition
+scientific discovery
+scruffy vs neat
+A*
+alpha–beta
+B*
+backtracking
+beam
+best-first
+bidirectional
+breadth-first
+continuous space
+cutting off
+depth-first
+depth-limited
+general
+greedy best-first
+hill-climbing
+in a CSP
+incremental belief-state
+informed
+Internet
+iterative deepening
+iterative deepening A*
+learning to
+local for CSPs
+local beam
+memory-bounded
+memory-bounded A*
+minimax
+recursive best-first (RBFS)
+simulated annealing
+stochastic beam
+strategy
+tabu
+uniform-cost
+uninformed
+search cost
+search tree
+segmentation (of an image)
+segmentation (of words)
+semantic interpretation
+semantic networks
+Semantic Web
+semi-supervised learning
+semidecidable
+semidynamic environment
+sensitivity analysis
+failure
+sensor interface layer
+sensorless planning
+sensor model
+sentence
+complex
+in a KB
+as physical configuration
+separator (in Bayes net)
+sequence form
+sequential environment
+sequential decision problem
+sequential importance-sampling resampling
+serendipity
+serializable subgoals
+set (in first-order logic)
+set-cover problem
+SETHEO
+set of support
+set semantics
+SGP
+SGPLAN
+shading
+shadow
+shaft decoder
+Shakey
+shape
+from shading
+short-term memory
+shortest path
+shoulder (in state space)
+SHRDLU
+sibyl attack
+sideways move (in state space)
+SIGART
+sigmoid function
+sigmoid perceptron
+signal processing
+significance test
+signs
+Simon’s predictions
+SIMPLE-REFLEX-AGENT
+simplex algorithm
+SIMULATED-ANNEALING
+simulation of world
+simultaneous localization and mapping
+(SLAM)
+singly connected network
+singular
+singular extension
+singularity
+technological
+sins seven deadly
+SIPE
+SIR
+situated agent
+situation
+situation calculus
+skeletonization
+Skolem constant
+Skolem function
+skolemization
+slack
+SLAM
+slant
+sliding-block puzzle
+sliding window
+small-scale learning
+SMA∗
+SMODELS
+smoothing
+linear interpolation
+SNARC
+SNLP
+SOAR
+social laws
+society of mind
+Socrates
+softbot
+soft margin
+softmax function
+soft threshold
+software architecture
+solution
+solving games
+soma
+sonar sensors
+sonnet
+soul
+soundness (of inference)
+sour grapes
+space complexity
+spacecraft assembly
+spam detection
+spam email
+sparse model
+sparse system
+SPASS
+spatial reasoning
+spatial substance
+specialization
+species
+spectrophotometry
+specularities
+specular reflection
+speech act
+speech recognition
+sphex wasp
+SPI (Symbolic Probabilistic Inference)
+SPIKE
+SPIN
+spin glass
+split point
+Sputnik
+square roots
+SRI
+SSD (sum of squared differences)
+SSS* algorithm
+stability
+of a controller
+static vs dynamic
+stack
+STAGE
+STAHL
+STAN
+standardizing apart
+Stanford University
+Stanhope Demonstrator
+STANLEY
+start symbol
+state
+world
+State-Action-Reward-State-Action (SARSA)
+state abstraction
+state estimation
+recursive
+state space
+state variable
+static environment
+stationarity (for preferences)
+stationarity assumption
+stationary distribution
+stationary process
+statistical mechanics
+stemming
+step cost
+step size
+stereopsis binocular
+stereo vision
+stiff neck
+stimulus
+stochastic beam search
+stochastic dominance
+stochastic environment
+stochastic games
+stochastic gradient descent
+Stoic school
+straight-line distance
+strategic form
+strategy profile
+strawberries enjoy
+string (in logic)
+STRIPS
+strong AI
+strong domination
+structured representation
+STUDENT
+stuff
+stupid pet tricks
+stylometry
+subcategory
+subgoal independence
+subjective case
+subjectivism
+submodularity
+subproblem
+substance
+spatial
+substitutability (of lotteries)
+substitution
+subsumption
+in description logic
+in resolution
+subsumption architecture
+subsumption lattice
+successor-state axiom
+successor function
+Sudoku
+Sulawesi
+SUMMATION
+summer’s day
+summing out
+sum of squared differences
+systems reply
+temporal difference learning
+temporal inference
+temporal logic
+temporal projection
+Sun Microsystems
+temporal reasoning
+temporal substance
+Superman
+superpixels
+supervised learning
+support vector machine
+sure thing
+surveillance
+survey propagation
+survival of the fittest
+Sussman anomaly
+Swedish
+switching Kalman filter
+syllogism
+symbolic differentiation
+symbolic integration
+symmetry breaking (in CSPs)
+synapse
+synchro drive
+synchronization
+synonymy
+syntactic ambiguity
+syntactic categories
+syntactic sugar
+syntactic theory (of knowledge)
+of logic
+of natural language
+synthesis
+deductive
+synthesis of algorithms
+T (fluent holds)
+T-SCHED
+TABLE-DRIVEN-AGENT
+table lookup
+table tennis
+tabu search
+tactile sensors
+Talos
+TALPLANNER
+task environment
+task network
+Tasmania
+in Athens
+automated
+taxonomic hierarchy
+taxonomy
+Taylor expansion
+TD-GAMMON
+telescope
+television
+template
+Teng C-M
+tennis
+tense
+term (in logic)
+terminal states
+terminal symbol
+terminal test
+termination condition
+term rewriting
+test set
+TETRAD
+texel
+text classification
+TEXTRUNNER
+texture
+texture gradient
+thee and thou
+THEO
+theorem prover
+theorem proving
+Theseus
+thingification
+thinking humanly
+thinking rationally
+thought
+laws of
+thrashing
+threshold function
+tic-tac-toe
+tiling
+tilt
+time (in grammar)
+time complexity
+time expressions
+time interval
+time of flight camera
+time slice (in DBNs)
+tit for tat
+TLPLAN
+TMS
+tokenization
+toothache
+topological sort
+torque sensor
+total cost
+touring problem
+toy problem
+TPTP
+trace
+tractability of inference
+trading
+tragedy of the commons
+trail
+training
+curve
+set
+replicated
+weighted
+transfer model (in MT)
+transhumanism
+transient failure
+transient failure model
+transition matrix
+transition model
+transition probability
+transitivity (of preferences)
+translation model
+transpose
+transposition (in a game)
+transposition table
+traveling salesperson problem
+traveling salesperson problem (TSP)
+TREE-CSP-SOLVER
+TREE-SEARCH
+treebank
+Penn
+tree decomposition
+tree width
+trial
+triangle inequality
+trichromacy
+truth
+functionality
+preserving inference
+table
+truth maintenance system (TMS)
+assumption-based
+justification-based
+truth value
+TSP
+TT-CHECK-ALL
+TT-ENTAILS?
+tuple
+turbo decoding
+Turing award
+Turing machine
+Turing Test
+Turk
+TWEAK
+twin earths
+two-finger Morra
+type signature
+typical instance
+U (utility)
+uT (best prize)
+u⊥ (worst catastrophe)
+UCPOP
+UI (Universal Instantiation)
+ultraintelligent machine
+Ulysses
+unbiased (estimator)
+uncertain environment
+uncertainty
+existence
+identity
+rule-based approach to
+summarizing
+and time
+unconditional probability see
+probability prior undecidability
+undergeneration
+unicorn
+unification
+and equality
+equational
+unifier
+most general (MGU)
+UNIFORM-COST-SEARCH
+uniform-cost search
+uniform convergence theory
+uniform prior
+uniform probability distribution
+uniform resource locator (URL)
+UNIFY
+UNIFY-VAR
+Unimate
+uninformed search
+unique action axioms
+unique names assumption
+unit (in a neural network)
+unit clause
+United States
+unit preference
+unit preference strategy
+unit propagation
+unit resolution
+units function
+universal grammar
+Universal Instantiation
+universal plan
+unmanned air vehicle (UAV)
+unmanned ground vehicle (UGV)
+UNPOP
+unrolling
+unsatisfiability
+unsupervised learning
+UOSAT-II
+update
+upper ontology
+URL
+urn-and-ball
+URP
+utilitarianism
+utility
+estimation
+expected
+maximum expected
+of money
+multiattribute
+multiplicative
+normalized
+ordinal
+utility-based agent
+utopia
+UWL
+vacuum tube
+vacuum world
+erratic
+slippery
+vagueness
+validation
+cross
+validation cross
+validation set
+validity
+VALUE-ITERATION
+value determination
+value function
+value iteration
+point-based
+value of information
+value of perfect information
+value symmetry
+VAMPIRE
+van Hoeve W-J
+vanishing point
+variabilization (in EBL)
+variable
+atemporal
+elimination
+in continuous state space
+indicator
+ordering
+random
+Boolean
+variational approximation
+variational parameter
+VC dimension
+VCG
+vector
+vector field histograms
+vector space model
+vehicle interface layer
+verification
+VERSION-SPACE-LEARNING
+VERSION-SPACE-UPDATE
+version space
+version space collapse
+Vickrey-Clarke-Groves
+Vienna
+views multiple
+virtual counts
+visibility graph
+vision
+Vitali set
+Viterbi algorithm
+vocabulary
+Voronoi graph
+voted perceptron
+VPI (value of perfect information)
+WALKSAT
+WAM
+WARPLAN
+Warren Abstract Machine (WAM)
+washing clothes
+wasp sphex
+WBRIDGE
+weak AI
+weak domination
+weak method
+weight
+weight (in a neural network)
+WEIGHTED-SAMPLE
+weighted linear function
+weight space
+West Col
+Westinghouse
+wide content
+Widrow–Hoff rule
+wiggly belief state
+Windows
+winner’s curse
+Wizard
+Wong W-K
+workspace representation
+world model in disambiguation
+world state
+World War II
+World Wide Web (WWW)
+worst possible catastrophe
+wrapper (for Internet site)
+wrapper (for learning)
+WWW
+XCON
+XML
+xor
+Yale
+Yip K M-K
+zebra puzzle
+zero-sum game
+Zimmermann H-J
+Zog
+cameras
+infrared range ﬁnders

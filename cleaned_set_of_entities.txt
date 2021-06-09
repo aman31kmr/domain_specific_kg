@@ -1,0 +1,4392 @@
+np (hard problems)
+prior
+fmp see planning fine-motion fmri
+partial observability
+nonterminal symbol
+depth-first search
+parallel lines
+anytime algorithm
+nearest-neighbor filter
+finite-state automata
+ro¨ger g
+oupm
+lifo
+linear
+story w e
+failure model
+hmap (map hypothesis)
+shafer g
+proposal distribution
+sputnik
+implication
+pddl (planing domain definition language)
+schomer d
+astrom k j
+brown m
+conditional probability table (cpt)
+dempster a p
+capen e
+multiagent systems
+grove a
+tree decomposition
+posegga j
+pruning
+explanatory gap
+specialization
+deale m
+disjunctive normal form
+domain
+kernighan b w
+learning to
+chatbot
+coordination game
+distributed
+hooker j
+diagnostic
+propositionalization
+if–then
+precision
+biere a
+sigmoid function
+inheritance
+shannon c e
+stochastic gradient descent
+surveillance
+linear constraint
+scanning lidars
+reconstruction
+lam j
+basin d a
+digital equipment corporation (dec)
+optimal controllers
+osindero s
+strategy profile
+conflict clause learning
+gus
+forgy c
+aizerman m
+panini
+network tomography
+peano g
+uniform resource locator (url)
+composite object
+rowland j
+gambling
+revelation principle
+validation set
+cn
+selman b
+decision maker
+lull r
+video
+online-dfs-agent
+memoization
+davidson d
+natural
+tms
+long-distance dependencies
+economics
+gittins index
+sloman a
+grinstead c
+convex
+deep fritz
+kirchner c
+existence uncertainty
+factorial
+uncertain
+absolute error
+doorenbos r
+vision
+lifting lemma
+degree of freedom
+peano axioms
+expert system
+relation
+partial program
+fukunaga a s
+semantic
+miller d
+texture gradient
+implementation (of a high-level action)
+alexandria
+prosser p
+regex
+action monitoring
+communication
+airport siting
+explanation
+guard j
+admissible
+differential gps
+pavlovic v
+species
+lyman p
+odometry
+shapiro e
+progression
+of a proof procedure
+fix e
+importance sampling
+statistical
+bell t c
+analytical generalization
+large-scale learning
+dasgupta p
+kuipers b j
+schro¨der e
+sunstein c
+sanders p
+views multiple
+freund y
+davis–putnam algorithm
+object-level state space
+probit distribution
+constraint optimization
+trail
+boxes
+beta distribution
+glanc a
+manzini g
+uct (upper confidence bounds on trees)
+wood d e
+path planning
+cocke j
+patrinos a
+blog
+nonmonotonic
+smith r c
+lexical-functional (lfg)
+sontag d
+laziness
+price waterhouse
+internet search
+assertion (logical)
+least-constraining-value heuristic
+savage l j
+inverted spectrum
+relative error
+mgss*
+london
+fermat p
+ratio club
+element of
+skeletonization
+price b
+sample complexity
+mixing time
+reinforce
+berger h
+branching factor
+case folding
+manipulator
+truth-revealing
+lo¨wenheim l
+thitimajshima p
+demopoulos d
+dunham b
+berrou c
+derivational analogy
+macrop (macro operator)
+more t
+parametric model
+rapid prototyping
+sondik e j
+visibility graph
+belief update
+wiggly belief state
+hart p e
+sapa
+glavieux a
+maximin equilibrium
+classification (in learning)
+shaping
+smodels
+effect
+multiagent planning
+cummins d
+fragment
+watkins c j
+haken w
+value node see utility node value of computation
+dominant strategy
+sietsma j
+windows
+random walk
+minimax decision
+inferential
+plan monitoring
+classification (in description logic)
+debreu g
+deductive learning
+heuristics
+refinement (in hierarchical planning)
+two-finger morra
+viola p
+edmonds j
+gawande a
+acting rationally
+point-to-point motion
+cash s s
+music
+pfeffer a
+elman j
+specularities
+generality
+standard
+extend-example
+direct utility estimation
+persistence action
+fowlkes c
+roussel p
+spin glass
+text classification
+components
+actuator
+cgp
+tractability of inference
+walksat
+conditional probability
+rao b
+wang e
+language
+as universal field
+expectation
+zapp a
+trading
+pinhole camera
+strong ai
+bundy a
+henrion m
+weiss y
+brain
+divide-and-conquer
+israel d
+time of flight camera
+van der gaag l
+appelt d
+l-bfgs
+inverse entailment
+analogical reasoning
+golomb s
+covariance
+etchemendy j
+parameter independence
+job-shop scheduling problem
+kinematic state
+differential equation
+pattern database
+oscar
+vienna
+schaeffer j
+berleur j
+optimally efficient algorithm
+patashnik o
+laird j
+min-conflicts
+analogy
+game
+add list
+nero
+kant e
+first-order probabilistic logic
+frump
+katz s
+learning
+besm
+grand prix
+stationarity assumption
+mst
+chess
+anchoring effect
+nonlinear constraints
+of inference
+magic sets
+sastry s
+best-first
+pspace-complete
+abstrips
+slack
+weiss g
+bats
+stack
+rms (root mean square)
+genetic-algorithm
+linus
+moore e f
+pennachin c
+completion (of a data base)
+synthesis of algorithms
+constraint satisfaction problem (csp)
+context-free
+kernelization
+reduction
+information gain
+optimality (of a search algorithm)
+witten i h
+troyanskii p
+implicative normal form
+complete assignment
+deduction see logical inference deduction theorem
+entailment constraint
+gold b
+terminal symbol
+minimum description length (mdl)
+brunot a
+thiele t
+object-oriented programming
+of resolution
+variable
+michaylov s
+knowledge representation
+langton c
+kessler b
+online
+mccune w
+circuit verification
+beal d f
+hurwicz l
+nasl
+b* search
+parisi g
+subsumption
+philips a b
+herskovits e
+level (in planning graphs)
+backgammon
+metropolis algorithm
+situated
+fuzzy logic
+categorial
+wumpus world
+off-policy
+optimality
+condie t
+noisy-and
+nearest-neighbors regression
+hinrichs t
+hierarchical decomposition
+information theory
+poundstone w
+and equality
+ralphs t k
+fixed-lag smoothing
+bar-hillel y
+algorithm
+validation cross
+hansard
+osherson d n
+barifaijo e
+feedback loop
+central limit theorem
+allen c
+minimax-decision
+king r d
+default logic
+policy
+wizard
+decision node
+fine-motion
+lifting
+baseline
+skolem function
+richards m
+computational learning theory
+missing
+cumulative
+equality in
+isard m
+consistency condition
+danish
+and acting
+stoljar d
+search cost
+stoic school
+jaynes e t
+miikkulainen r
+boyd s
+subsumption lattice
+authority
+levitt r e
+place u t
+nealy r
+can machines think?
+pullum g k
+horse
+aldous d
+vaucanson j
+chart parser
+denis m
+generator
+farrell r
+nearest-neighbors
+wiggly
+em algorithm
+cryptarithmetic
+parent
+relaxed problem
+regin j
+rosenbloom p s
+ucpop
+google translate
+initial state
+serializable
+input resolution
+roomba
+complex
+vampire
+intentional state
+widrow b
+hilgard e r
+variable in
+hamscher w
+default reasoning
+leveled off (planning graph)
+snell m b
+risk aversion
+data-driven
+global constraint
+stephenson t
+dental
+richardson s
+dowty d
+prodigy
+kirkpatrick s
+ambiguity aversion
+gopnik a
+weighted linear function
+monism
+table tennis
+inside–outside algorithm
+normal form
+termination condition
+hansson o
+itou
+pipatsrisawat k
+basic groups
+satplan
+spirtes p
+artificial intelligence
+exact
+insufficient reason principle of
+sensor interface layer
+reinforcement
+carroll s
+scheduling
+booth j w
+rockefeller foundation
+beame p
+game programs
+green p
+newton–raphson method
+lipkis t a
+domshlak c
+nemirovski a
+mitra m
+donninger c
+concurrent action list
+isis
+jenniskens p
+noisy-or
+in representation
+goodman d
+optimal brain damage
+pathfinder
+hugin
+fergus r
+schwartz s p
+beal j
+mcguinness d
+inverted pendulum
+quantization factor
+physical symbol system
+duda r o
+oaksford m
+influence diagram
+romania
+circumscription
+deductive database
+based agent
+herbrand base
+motion model
+sha f
+weight (in a neural network)
+overbeek r
+post-decision disappointment
+ops
+dynamical systems
+robot (with humans)
+result
+venkataraman s
+basis function
+explanation-based
+hunsberger l
+sentence
+false positive
+boolean
+null move
+wos l
+robot navigation
+effective
+datalog
+externalities
+interleaving (actions)
+zero-sum game
+madalines
+production system
+alberti l b
+dalton
+approximately correct
+pistore m
+forsyth d
+structured
+bishop m
+cpt
+error (of a hypothesis)
+chugin
+rendering model
+normalization (of a probability
+bigham j
+randomization
+cross-validation-wrapper
+whorf b
+gofai
+mutagenicity
+causal
+random set
+buehler m
+cover t
+elfes a
+table lookup
+mereology
+sutcliffe g
+simard p
+nondeterminism
+walsh t
+boolean keyword model
+quackle
+descendant (in bayesian networks)
+competitive
+type signature
+wilson r
+burch n
+domain-specific
+yates a
+hirsh h
+khatib o
+nested
+doctorow c
+edge (in an image)
+perpetual punishment
+booth t l
+contingency
+conjunct ordering
+accidental
+wermuth n
+cournot a
+clustering (in bayesian networks)
+rubinstein a
+bayesian
+data mining
+whiter a m
+prolog technology theorem prover (pttp)
+zero-sum
+incentive
+intelligent backtracking
+kwok c
+depth-first
+wooldridge m
+smart j j c
+huffman d a
+linear resolution
+reachable set
+klempner g
+reynolds c w
+collusion
+potential field control
+jeavons p
+pascal’s wager
+generalized
+soul
+in probabilistic inference
+opencyc
+machack
+fox c
+teller a
+real-world
+graceful degradation
+logicism
+rink f j
+ferguson t
+serial
+generalization in
+breadth-first-search
+sharp d h
+mems
+and node
+memory requirements
+nourbakhsh i
+ong d
+proof
+horizon (in an image)
+accusative case
+configuration space
+kilgarriff a
+colmerauer a
+aura
+controller
+prolog-based
+fastdownward
+basye k
+independence
+gasser r
+spike
+world war ii
+bruce v
+kocsis l
+evolution
+intercausal
+bounded optimality (bo)
+schickard w
+sestoft p
+mannila h
+current-best-hypothesis
+answer set programming
+replicated
+rabiner l r
+alpha–beta pruning
+singh p
+normal distribution
+explaining away
+ilog
+summer’s day
+console l
+freeman w
+hexapod robot
+correlated sampling
+cumulative probability density function
+executive layer
+deterministic node
+hierarchical task network
+machover m
+risk neutrality
+unobservable
+epistemological commitment
+megavariable
+cybenko g
+database
+haussler d
+heidegger m
+brain vs
+substance
+dawid a p
+d-separation
+kaplan r
+forward–backward
+version space collapse
+applicable
+naive bayes
+block h d
+strategy
+port-royal logic
+coloring
+hood a
+value symmetry
+private value
+table-driven-agent
+marginal
+semantic networks
+gibbs-ask
+vagueness
+persistent (variable)
+conjunctive normal form
+stahl
+efros a a
+boid
+e
+artificial
+forward search for planning
+indyk p
+bidlack c
+structured representation
+value iteration
+multiagent
+lowerre b t
+wall r
+swartz r
+description logic
+floreano d
+cognitive architecture
+differentiation
+happy graph
+chimpanzee
+nyberg l
+garg a
+in disambiguation
+dt-agent
+hardin g
+ephrati e
+hypothesis prior
+belief function
+duck mechanical
+sun microsystems
+game theory
+juels a
+artificial life
+stage
+strong
+eniac
+utilitarianism
+nisan n
+overfitting
+winner’s
+hopkins beast
+linear programming
+davidson a
+orientation
+philosophy of
+cutset conditioning
+policella n
+optimal
+k-dt (decision tree)
+devroye l
+alldiff constraint
+attribute-based extraction
+nuclear power
+setheo
+minesweeper
+koehn p
+etzioni a
+diameter (of a graph)
+situation
+saraswat v
+ellsberg
+focus
+chater n
+elio r
+webber b l
+negligence
+cascaded finite-state transducers
+coastal navigation
+action
+clark p
+futility pruning
+han x
+inductive (ilp)
+odyssey
+mysticism
+nominative case
+continuous
+academy award
+noah
+ibal
+action schema
+siklossy l
+tabu
+language generation
+metareasoning
+cooperation
+holdout cross-validation
+formulate search execute
+organon
+touring
+maximum a posteriori
+wiener n
+satisfiability
+compliant
+verification
+dbn
+conflict set
+ellsberg paradox
+partially observable
+navigation function
+sequential decision problem
+strips
+search
+liability
+joint
+diagnosis
+completeness
+parker l e
+first-order logic
+su y
+lafferty j
+theo
+wo¨hler f
+palmer d a
+demonic
+veloso m
+turing test
+dumais s t
+mixed strategy
+admissible heuristic
+denney e
+event
+nau d s
+o() notation
+kantor g
+uniform-cost
+parameter
+and time
+environment
+bell c
+muggleton s h
+semantics
+pinker s
+darkthought
+bayes–nash equilibrium
+rumelhart d e
+lamarck j b
+definition (logical)
+(english fragment)
+lempel-ziv-welch compression (lzw)
+summing out
+doran j
+inverse
+(slam)
+indexical
+loftus e
+mind
+complex sentence
+as refinement
+predicate calculus see logic first-order predicate indexing
+rummery g a
+bennett j
+relevance-based
+global
+treebank
+guaranteed
+maldague p
+qa
+parallel
+du¨rer a
+url
+cult of computationalism
+discount factor
+loocv
+function approximation
+coward n
+reserve bid
+weak domination
+lave r e
+q
+indicator
+jones t
+straight-line
+hspr
+vacuum
+weak
+equilibrium
+nebel b
+dirichlet distribution
+bernoulli n
+bandit problem
+assumed-density
+generalization loss
+maximum margin separator
+reusable resource
+satia j k
+rao-blackwellized
+states d j
+longley n
+reward-to-go
+toothache
+blocks world
+activation function
+prior probability
+lighthill j
+stader j
+scene
+biconditional
+terminal test
+schank r c
+pieper g
+capek k
+loss
+dendrite
+jasra a
+kernel machine
+metalevel state space
+sliding-block puzzle
+minimum-remaining-values
+automated debugging
+chambers r a
+waltz d
+washington g
+anderson c w
+conditional gaussian
+universal grammar
+wong a
+bellman equation
+conditional independence
+stanford university
+k-fold cross-validation
+page c d
+atanasoff j
+pfeifer r
+navigation
+validity
+reif j
+chess d m
+unknown
+bandit
+bachmann p g h
+priority
+suttner c
+gaussian error model
+delta rule
+berliner h j
+drone
+qualitative probabilistic network
+triggs b
+decision trees
+langlotz c p
+ontological commitment
+operationality
+gu j
+case-based reasoning
+hidden variable
+conditional distributions
+spam email
+australia
+equality (in logic)
+winograd t
+penrose r
+algorithmic complexity
+interval-valued
+noda i
+abdennadher s
+rule-based
+survival of the fittest
+allen b
+cruse d a
+in description logic
+draper d
+dutch
+guyon i
+slate d j
+cognitive modeling
+babbage c
+in logic
+emv (expected monetary value)
+betting game
+certainty factor
+deformable template
+stochastic beam search
+mantis shrimp
+washing clothes
+high-level
+askmsr
+hamm f
+emnlp
+passive learning
+krypton
+chekaluk r
+winkler r l
+linnaeus
+passive-td-agent
+measurement
+version-space-learning
+laplace smoothing
+young h p
+almulla m
+mahaviracarya
+emergent behavior
+positivism logical
+mrs (metalevel reasoning system)
+boutilier c
+edmonds d
+global positioning system (gps)
+g-set
+homo sapiens
+bertoli p
+missionaries and cannibals
+monotonic
+lucas p
+stochastic environment
+strat t m
+prospector
+edinburgh
+latent semantic indexing
+history
+ktesibios of alexandria
+killer move
+mercer’s theorem
+minimum spanning tree (mst)
+consistent-det?
+cyk algorithm
+dative case
+del moral p
+goldman r
+bounds propagation
+boss
+gold
+ieee
+positive literal
+rosenblitt d
+small-scale learning
+uwl
+khare r
+and-search
+kanal l n
+smith b
+wasp sphex
+soft threshold
+gale w a
+augmented
+aho a v
+computer vs
+generation (of states)
+bjornsson y
+planning
+holonomic
+domingos p
+local consistency
+child
+recursive
+in first-order logic
+location sensors
+pcfg
+diffuse reflection
+clustering
+simons p
+markov
+dpll
+sure thing
+structural
+syntactic sugar
+indifference principle of
+mechanism design
+to search
+rdf
+crossword puzzle
+append
+disabilities
+sam
+chomsky c
+parker a
+pentagon papers
+huffman s
+stob m
+westphal m
+qxtract
+daun b
+adida b
+observable
+summarizing
+disjunctive constraint
+bridge (card game)
+morris a
+svartvik j
+conjugate prior
+liquids
+liberatore p
+assumption
+disambiguation
+ui (universal instantiation)
+hanan s
+ultraintelligent machine
+lynch k
+mcnealy s
+striebel c t
+beninq
+sri
+materialism
+as satisfiability
+kanefsky b
+linear separability
+stereopsis binocular
+gordon n
+current in local search
+petrov s
+bonet b
+frame
+owl
+solving games
+weak ai
+hintikka j
+kinsey e
+significance test
+upper
+kaplan d
+resolution
+multiattribute
+hodges j l
+blumer a
+multiply connected network
+autoclass
+extrinsic property
+bylander t
+sheppard b
+waugh k
+prawitz d
+repop
+chunking
+faugeras o
+singhal a
+moore a w
+mutation
+oh s
+tree
+stuff
+garrett c
+root mean square
+bayesian learning
+t-sched
+safe
+parekh r
+exclusive or
+constraint language
+gamer
+fuzzy
+poli r
+learning hidden variables in
+result set
+thrun s
+factor (in variable elimination)
+eqp
+perception
+polite convention (turing’s)
+iq test
+smith s j j
+uniform convergence theory
+normative theory
+robinson a
+ariely d
+stone p
+urmson c
+mental states
+feldman r
+nonlin+
+airport-siting
+almanac game
+active sensing
+diophantus
+preference independence
+deductive
+metzler d
+duration
+set-level
+signs
+baader f
+jack
+dempster–shafer theory
+congdon c b
+lama
+pspace
+iterative expansion
+persistence arc
+regularization
+vazirani u
+tishby n
+brants t
+complexity analysis
+noughts and crosses
+atomic sentence
+paull m
+complex phrases
+lambertian surface
+morjaria m a
+tree-csp-solver
+nagasawa y
+lecun y
+polytree
+decision-list-learning
+scrabble
+phone model
+amir e
+iterative deepening
+iida h
+syntax
+schnizlein d
+canonical form
+deep blue ix
+damage optimal
+prior-sample
+id
+reference controller
+multivariate linear regression
+online replanning
+coarticulation
+pinkas g
+bagging
+ixtet
+thrashing
+reeson c g
+myerson r
+howe d
+world model in disambiguation
+bayesian network
+gradient
+mixtures of gaussians
+model checking
+enumeration-ask
+formal
+shading
+tptp
+huddleston r d
+transposition (in a game)
+visser w
+balashek s
+sanna r
+episodic environment
+pointwise product
+motion
+smith r g
+individuation
+electric motor
+sen s
+reward
+substitutability (of lotteries)
+general ontology
+framing effect
+clint
+collins a m
+perplexity
+altruism
+broadbent d e
+lucene
+pi x
+extension (of a concept)
+softmax function
+subjectivism
+possibility of
+convexity
+scoring function
+dbpedia
+poultney c
+nefian a
+substitution
+linear regression
+phrase structure
+neat vs scruffy
+curve
+schervish m j
+warplan
+welty c
+expected value (in a game tree)
+atoms
+ralaivola l
+ponce j
+dynamic bayesian network (dbn)
+nicholson a
+context-specific
+haghighi a
+qaly
+action exclusion axiom
+burglar alarm
+brooks r a
+contraction mapping
+in ebl
+tense
+karmarkar n
+berry c
+and–or graph
+pagerank
+answer literal
+purdom p
+reference path
+kumar v
+chaff
+cognitive science
+craik k j
+plato
+decision
+lexicalized
+theoretical
+metalevel
+multibody
+alliance (in multiplayer games)
+tetrad
+touring problem
+waldinger r
+schema (in a genetic algorithm)
+literal (sentence)
+aaai (american association for ai)
+prolog
+state abstraction
+sudoku
+wanner e
+debevec p
+anantharaman t s
+beam
+extended kalman filter (ekf)
+multieffector
+elliott p
+set-cover problem
+revenue equivalence theorem
+automaton
+hitachi
+stutz j
+logistic function
+embodied cognition
+instance-based
+gaussian process
+rule-based approach to
+diophantine equations
+haptics
+locality
+convention
+pit bottomless
+robust
+history of
+cmac
+hastie t
+ff
+harpy
+milios e
+queens problem
+bilingual corpus
+boltzmann machine
+of a logical system
+object model
+edwards p
+ac
+line search
+bigelow j
+stroham t
+raphael b
+freuder e c
+leak node
+utility-based
+roberts g
+brokowski m
+toth p
+gottlob g
+idiot bayes
+extended
+latombe j-c
+reactive control
+spam detection
+vandenberghe l
+disjunction
+informed search
+smith j e
+baum l e
+manolios p
+observation prediction
+ad-tree
+robertson n
+expected monetary value
+weighted
+constraint graph
+most likely explanation
+analytical engine
+haugeland j
+office assistant
+foil
+premise
+torque sensor
+clamp s e
+inza i
+binding list
+single layer see perceptron neurobiology
+byrd r h
+dragon
+hydra
+hierarchical reinforcement learning
+segmentation (of words)
+local
+localization
+bugs
+overmars m
+arc
+pourret o
+intentionality
+body (of horn clause)
+conjunction (logic)
+hal
+intelligence
+rao a
+on-policy
+fuzzy control
+exceptions
+image
+minisat
+sequential
+carbone r
+as physical system
+of perfect information
+incremental
+thingification
+sample
+ebl
+iterative deepening search
+digital
+decision boundary
+sproull r f
+winker s
+fruhwirth t
+continuation
+omniscience
+kaelbling l p
+doucet a
+schema acquisition
+recursively enumerable
+aggarwal g
+likelihood-weighting
+queens
+distributed constraint satisfaction
+tattersall c
+donati a
+popat a c
+west col
+breiman l
+machine
+freitag d
+wilensky r
+laird p
+unit clause
+predicate symbol
+smallwood r d
+ambient illumination
+stan
+thought
+mgonz
+epiphenomenalism
+montague r
+phonetic alphabet
+brickley d
+mental objects
+prioritized sweeping
+bridle j s
+cresswell m j
+agent
+sharir m
+version space
+binford t o
+goal-based agent
+most general (mgu)
+wrapper (for internet site)
+case statement (in condition plans)
+best possible prize
+linear interpolation
+kempe a b
+lehrer j
+minimal model
+greece
+tesauro g
+pure symbol
+chemistry
+local beam search
+percept sequence
+perrin b e
+bates e
+decompose
+pigeons
+thinking humanly
+tenenbaum j
+weizenbaum j
+aldiss b
+adaptive perception
+stereo
+transitivity (of preferences)
+re´nyi a
+resource constraints
+winner’s curse
+biological naturalism
+data sparsity
+fastforward
+multiattribute utility theory
+ostland m
+huttenlocher d
+eeg
+fast diagonally downward
+knowitall
+logit distribution
+barwise j
+support vector machine
+adp (adaptive dynamic programming)
+backtracking chronological
+definite clause (dcg)
+dynamic backtracking
+hierarchical structure
+bringsjord s
+dynamic programming
+desires and
+herbrand universe
+htn planning
+pd controller
+reflex agent
+vlassis n
+open-world assumption
+lzw
+diorio c
+mycin
+of probability
+clairvoyance
+unmanned ground vehicle (ugv)
+unique action axioms
+extension (of default theory)
+bell j l
+internal state
+rational
+forbin
+reward function
+co-np-complete
+discovery system
+dubois o
+engineering
+sss* algorithm
+ground term
+canny j
+in resolution
+fitness (in genetic algorithms)
+straight-line distance
+de freitas n
+bayes t
+attribute
+bourzutschky m
+soccer
+lesh n
+snyder w
+brafman r
+craswell n
+sensor
+transient failure
+worst possible catastrophe
+ohashi t
+game playing
+ibm
+domain closure
+mcmc
+dynamic state
+schrag r c
+feed-forward network
+werbos p
+inspection game
+overriding
+knowledge-based agents
+autonomous
+trucco e
+canonical distribution
+remote agent
+epstein r
+irrationality
+monotone condition
+backmarking
+niemela¨ i
+class probability
+h (heuristic function)
+marginalization
+gruber t
+morgan n
+strachey c
+tardos e
+riloff e
+diplomacy
+saltzman m j
+ghose s
+mosteller f
+a(s) (actions in a state)
+qubic
+intrinsic property
+relational reinforcement learning
+of a controller
+marthi b
+meet (interval relation)
+spectrophotometry
+bendix p b
+cutset cycle
+continuous space
+movies
+ir
+mannion m
+ontology
+morgan j
+slattery s
+neural network parallelism
+step cost
+finite
+berners-lee t
+local beam
+assessing performance
+recursive definition
+passive
+north o
+bnf (backus–naur form)
+heawood p
+singer p w
+syntactic
+rete
+baxter j
+jain a
+smyth p
+﻿a
+brewka g
+and–or tree
+patel-schneider p
+open list see frontier openmind
+logical connective
+nitroaromatic compounds
+schulster j
+measure
+mit
+tarjan r e
+online search
+kebeasy r m
+elimination-ask
+ter meulen a
+traveling salesperson
+rabenau e
+weymouth t
+motion parallax
+existential instantiation
+stolcke a
+toy
+ham sandwich
+society of mind
+horrocks j c
+color constancy
+mccallum a
+alpha–beta search
+satmc
+random surfer model
+manhattan
+glover f
+pylyshyn z w
+percept
+raghavan p
+regions
+schmid c
+lexical
+three-layer
+of utility theory
+nowlan s j
+slovic p
+representational
+student
+murphy r
+observation sentences
+percept schema
+horn clause
+choueiry b y
+rationality
+recognition
+chomsky normal form
+or-search
+abc computer
+wells m
+philo of megara
+tit for tat
+internet
+noisy channel model
+grove w
+apprenticeship learning
+evaluation
+infinite horizon problems
+machine translation
+chinese room
+sgp
+ku¨bler s
+equivalence (logical)
+sagiv y
+singh s p
+dupont
+koopmans t c
+lusk e
+scientific discovery
+planner
+lt
+linear-chain conditional random field
+gps (global positioning system)
+leiserson c e
+ascending-bid
+commonsense
+distribution)
+potential field
+landscape (in state space)
+alternatives to
+smith g
+negative
+pax
+edge detection
+hanks s
+good and evil
+torralba a
+quillian m r
+bickford m
+artificial flight
+journals
+information-gathering-agent
+taxi
+model preference
+α (normalization constant)
+evaluation of
+pease a
+resolvent
+shapley s
+commitment
+table
+adalines
+behaviorism
+conditioning case
+categorization
+common value
+sahin n t
+gestalt school
+linkage constraints
+doyle j
+stylometry
+software architecture
+kedar-cabelli s
+update
+of a heuristic
+tt-entails?
+ambiguity
+ground resolution theorem
+newton i
+hogan n
+loosely coupled system
+phoneme
+darwiche a
+sigmoid
+bobick a
+united states
+of chance
+heuristic
+metadata
+analysis of algorithms
+space
+churchland p m
+zhao y
+vauquois b
+pinto d
+chervonenkis a y
+mixture of gaussians
+modified
+forward
+least-constraining-value
+harel d
+origin function
+quantification
+mgu (most general unifier)
+lottery
+pineau j
+plateau (in local search)
+uniform-cost search
+theorem
+newman p
+ada programming language
+function
+hand–eye machine
+kjaerulff u
+proposition
+rejection sampling
+iterative deepening a*
+felner a
+enumerate-all
+binary decision diagram
+www
+bagnell j a
+gravano l
+hughes g e
+neal r
+individual (in genetic algorithms)
+in a csp
+unsupervised
+texel
+reference class
+hypothesis space
+static environment
+value of information
+loopy
+martin n
+automated
+satisfiability threshold conjecture
+metzinger t
+mbp
+cullingford r e
+diagnostic rule
+hierarchical task network (htn)
+descriptive theory
+joint probability distribution
+schaub t
+vickrey
+tokenization
+binocular stereopsis
+cumulative learning
+context
+stochastic
+genetic programming
+mcallester d a
+decomposition
+theory
+time (in grammar)
+sabharwal a
+unify
+micro-electromechanical systems (mems)
+renaming
+drabble b
+vcg
+intended
+bunch
+glauber
+held m
+moses y
+sgplan
+and action
+conlisk j
+shoulder (in state space)
+naked
+search space
+adversary argument
+hunter l
+bouzy b
+minton s
+torrance m c
+bisson t
+nesterov y
+grosz b j
+pseudocode
+syllogism
+data association
+independence)
+right thing doing the
+winikoff m
+baluja s
+een n
+million queens
+zeldner m
+anchor text
+fudenberg d
+difference engine
+known
+degree of truth
+level cost
+hauk t
+dalal n
+subjective case
+telescope
+regular expression
+build
+material value
+missing attribute values
+referential transparency
+breadth-first search
+generative capacity
+precedence constraints
+plan recognition
+cheeseman p
+gumperz j
+bounded rationality
+focal plane
+probcut
+evolution strategies
+nonmonotonic logic
+hacking i
+back-prop-learning
+dietterich t
+collins m
+constraint-based generalization
+cybernetics
+in a vat
+bolognesi a
+gain ratio
+s-set
+empirical loss
+hirsch e a
+merleau-ponty m
+job
+time interval
+metonymy
+phenomenology
+of number theory
+utility-based agent
+khorsand a
+preserving inference
+cerebral cortex
+for planning
+connell j
+goodnow j j
+ai see artificial intelligence aircraft carrier scheduling
+gelman a
+time slice (in dbns)
+sampling
+frequentism
+dead end
+wolfe d
+isbn
+newborn m
+translation
+ferriss t
+rule-based system
+parrod y
+urn-and-ball
+bellman r e
+pl-fc-entails?
+map (maximum a posteriori)
+unimate
+ham
+satisficing
+paramodulation
+schulz s
+racing cars
+boyen–koller algorithm
+maniatis p
+mayer a
+recursive-best-first-search
+knowledge-based
+from shading
+combinatorial explosion
+artificial urea
+hungarian algorithm
+element
+future of
+situation–action
+sins seven deadly
+eulerian
+gabor z z
+cotraining
+hierarchical lookahead
+pictorial structure model
+paulin-mohring c
+survey propagation
+bangera r
+hamming distance
+calculus
+o-plan
+hayes p j
+zimdars a
+distortion
+situated agent
+active vision
+actor
+ai
+asynchronous
+in contingency problems
+iterative-deepening-search
+hume d
+appel k
+negative example
+mathematical induction schema
+mauchly j
+hscp
+multibody planning
+kernel trick
+saint
+fitness landscape
+candidate elimination
+logical piano
+separator (in bayes net)
+finkelstein l
+higher-order logic
+soma
+soderland s
+spi (symbolic probabilistic inference)
+as physical configuration
+hamori s
+semi-supervised learning
+perception layer
+ratner d
+particle-filtering
+minimax search
+curse
+depth-limited-search
+shpitser i
+felzenszwalb p
+prismatic joint
+dow r j f
+binder j
+fisher r a
+monitoring
+ignore preconditions heuristic
+newell a
+force sensor
+britain
+luger g f
+existential introduction
+min-conflicts heuristic
+oppacher f
+robust control
+syntactic ambiguity
+erratic
+venugopal a
+k-d tree
+induced width
+real-world problem
+scho¨lkopf b
+introspection
+jacquard loom
+cuellar j
+logistic regression
+training
+unifier
+smola a j
+transpose
+index
+gari
+execution monitoring
+abhors synonyms
+goal monitoring
+landmark
+slagle j r
+denker j
+toy problem
+joint action
+unsatisfiability
+logic theorist
+utgoff p e
+precondition axiom
+metarule
+stokes i
+square roots
+hart t p
+copeland j
+whitehead a n
+banerji r
+uninformed
+mason m
+metropolis n
+value function
+intuition pump
+reasoning
+practical
+carlson a
+reinsel g
+hawkins j
+pineal gland
+backtracking-search
+goal-based
+vacuum tube
+mcdonald r
+dystopia
+proper policy
+meggido n
+summation
+gait
+regular
+norvig p
+lfg
+humphrys m
+stanhope demonstrator
+decision theory
+state space
+kishimoto a
+degree of belief
+propositional attitude
+translation model
+grammatical formalism
+majority function
+truth
+uniform probability distribution
+occupied space
+product rule
+constraint weighting
+rochester n
+tamaki h
+universal
+critical path
+ml see maximum likelihood modal logic
+poland
+computer vision
+overgeneration
+interreflections
+kepler j
+fortmann t e
+undergeneration
+do m b
+nayak p
+triangle inequality
+bayes net toolkit
+stimulus
+rbfs
+heckerman d
+background
+astronomer
+deviser
+blocks-world
+stochastic games
+d’ambrosio b
+consistent
+throop t a
+exhaustive decomposition
+torras c
+schulz d
+unit propagation
+bertele u
+pac
+of a csp assignment
+discrete
+graph-search
+hovel d
+constraint logic programming (clp)
+add-one smoothing
+dof
+gasquet a
+dynamic weighting
+cplan
+induction of
+maximum likelihood
+mackenzie d
+mailath g
+pessimistic description (of an action)
+poker
+tilt
+factored frontier
+laird n
+precondition
+term (in logic)
+golem
+act*
+model-based-reflex-agent
+autonomous underwater vehicle (auv)
+levy d
+forward pruning
+non-interleaved
+gonthier g
+recursive-dls
+knowledge compilation
+minimax value
+de raedt l
+orderability
+copernicus
+bell labs
+axioms of
+winograd s
+wallace a r
+grl
+perfect recall
+bitman a r
+units function
+maximum expected
+pereira f
+michie d
+auction
+bioinformatics
+weber j
+wumpus
+lovelace a
+schneider j
+four-color map problem
+bootstrap
+minimum slack
+consistency
+situation calculus
+hubble space telescope
+temporal difference
+likelihood
+risk seeking
+kearns m
+memory-bounded a*
+path cost
+belongie s
+map
+thaler r
+classic
+reversal
+altman a
+glass j
+osawa e
+dynamic
+tic-tac-toe
+ddn (dynamic decision network)
+homophones
+post e l
+gelernter h
+backoff model
+majercik s m
+microsoft
+conditional random field (crf)
+lowry m
+chung s
+davis r
+loss function
+online learning
+estimation
+dual graph
+mathematical
+gold standard
+larran˜aga p
+multiagent environments
+response
+first-price
+unit resolution
+transition model
+maximum global
+cake eating and having
+hewitt c
+bulfin r
+bernstein a
+mazurie a
+universal instantiation
+child-node
+properties
+ccd (charge-coupled device)
+general problem solver
+apte´ c
+consumable resource
+inference
+symbolic integration
+teller s
+center (in mechanism design)
+pareto dominated
+iagnemma k
+predicate
+mian i s
+component (of mixture distribution)
+netto e
+contradiction
+factored
+sensitivity analysis
+arc consistency
+parisi d
+snlp
+hierarchical-search
+tobarra l
+virtual counts
+convolution
+path
+contingencies
+data complexity
+linear separator
+raedt l d
+laskey k b
+vinge v
+drucker h
+choice point
+current-best-learning
+approximate near-neighbors
+greedy
+case agreement
+real-time
+nuprl
+smoothing
+string (in logic)
+set
+tree width
+tank d w
+formulation
+commutativity (in search problems)
+discontinuities
+query variable
+vacuum world
+paradise
+lifchits a
+segaran t
+decision-theoretic
+prior knowledge
+misak c
+stratonovich r l
+augmented grammar
+me´zard m
+powers r
+bransford j
+nondeterministic environment
+expectiminimax
+new predicates
+logical reasoning
+och f j
+specular reflection
+binary
+transition
+weibull j
+yoshikawa t
+rauch h e
+les´niewski s
+meehan j
+redundant
+greiner r
+identification in the limit
+lotem a
+chatila r
+pdp (parallel distributed processing)
+process
+moffat a
+snell j
+bm
+mason r a
+logic programming
+progol
+young m
+of dimensionality
+goal clauses
+most likely state
+zaragoza h
+programming language
+pearce j
+wide content
+ida* search
+evidence
+lexicalized pcfg
+christmas
+iteration
+first commercial
+rock i
+minimum remaining values
+ilp
+iterative lengthening search
+generalized cylinder
+charniak e
+link (in a neural network)
+ignore delete lists
+passive-adp-agent
+start symbol
+repeated
+warren abstract machine (wam)
+kautz d
+kripke s a
+tiling
+no-regret learning
+parr r
+lpg
+natural stupidity
+distant point light source
+infinite
+in knowledge representation
+hebb d o
+experimental
+random variable
+socrates
+inconsistent support
+toffler a
+howe a
+berkson j
+simmons r
+unicorn
+as constraint satisfaction
+wintermute s
+fol-bc-ask
+marsland s
+penix j
+platt j
+automobile insurance
+cesa-bianchi n
+semidecidable
+mind–body problem
+unit preference strategy
+sample space
+operations research
+gat e
+cross s e
+linear function
+joachims t
+decision stump
+kraus w f
+rbl
+mixture
+eiter t
+portuguese
+epam (elementary perceiver and memorizer)
+hebbian learning
+depth-limited
+stensrud b
+maier d
+analogical
+kowalski r
+kernel function
+simulated-annealing
+television
+dictionary
+sarsa
+lincoln a
+mobile
+perspective
+teyssier m
+compliant motion
+letz r
+equational
+boser b
+robotics
+fuchs j j
+williams b
+cyberlover
+ontological engineering
+physicalism
+node
+rand corporation
+decomposability (of lotteries)
+pneumatic
+lawler e l
+latent variable
+tamaki s
+focus of expansion
+robbins algebra
+robot
+informed
+bounds consistent
+puzzle
+minimal-consistent-det
+perfect information
+empiricism
+dreussi j
+multiplicative
+mixture distribution
+payoff function
+tabu search
+kernel
+grenager t
+pegasus
+conferences
+ogawa s
+new-clause
+mcilraith s
+count noun
+generalization
+heath m
+moravec h p
+temporal inference
+nonparametric
+glie
+nash j
+halevy a
+partial assignment
+game (with humans)
+one-shot
+gsat
+life insurance
+itep chess program
+schoppers m j
+schultze p
+smith d a
+alvey report
+butler s
+hammond k
+puzicha j
+kan a
+discounted
+montague p r
+aoki m
+carmel
+inference procedure
+watt j
+bennett b
+lists
+plansat
+reddy r
+talos
+tree-search
+gamma function
+with uncertainty
+grid rectangular
+logical omniscience
+weiss s
+bag of words
+task network
+heuristic path algorithm
+xcon
+super
+dubois d
+nono
+weak method
+beeri c
+hidden unit
+inductive learning
+kasif s
+luce d r
+bilmes j
+unconditional probability see
+xml
+asbestos removal
+penn
+downey d
+casati r
+hits
+plan-route
+wrapper (for learning)
+pose
+carreras x
+systems reply
+independent subproblems
+nevill-manning c g
+normalization (of attribute ranges)
+cyk-parse
+dix j
+pure strategy
+belief state
+friedgut e
+language identification
+canny edge detection
+just m a
+levinson s
+card games
+of preferences
+kramer s
+ensemble learning
+taxi-driving
+lakemeyer g
+temporal
+closure
+ignorance
+hald a
+tweak
+qualia
+mahalanobis distance
+bluff
+coordination
+bengio y
+cooperative
+nowatzyk a
+model-based reflex agents
+glymour c
+transhumanism
+eyes
+sma∗
+swift t
+decoste d
+entailment
+quadratic dynamical systems
+reingold e m
+march j g
+multi-entity
+strict
+probabilistic roadmap
+synapse
+sacerdoti e d
+completeness proof for
+slocum j
+mass spectrometer
+player (in a game)
+clause
+context-free grammar
+machine evolution
+condensation
+yu b
+halting problem
+u⊥ (worst catastrophe)
+best-first search
+priority queue
+singular extension
+shaw j c
+deville y
+puma
+deep space one
+fuzzy set
+lisp
+lim g
+first-order
+hopfield network
+kriegspiel
+harvard
+compression
+gene
+stochastic beam
+declarative
+open-universe
+model selection
+backjumping
+machine reading
+inference in
+osman i
+prieditis a e
+cobham a
+sackinger e
+hendler j
+perspective projection
+chafin b
+unary
+symbol
+selfridge o g
+truth value
+public key encryption
+constructive induction
+locally weighted regression
+grounding
+logic
+recall
+observation model
+conjunctive
+mcc
+planning and control layer
+gittins j c
+backward search for planning
+so¨rensson n
+bartak r
+crf
+dirichlet process
+transposition table
+plankalku¨l
+restaurant problem
+implementation level
+dagum p
+allais
+sato t
+axon
+signal processing
+nivre j
+smith d e
+rice t r
+set semantics
+assumption sensor
+dualistic view
+sutherland i
+metaphysics
+u (utility)
+cyganiak r
+golub g
+adaptive control theory
+brachman r j
+graph
+simple-reflex-agent
+average reward
+exploitation
+sleator d
+niv y
+probability
+effector
+leech g
+recursive best-first (rbfs)
+brafman o
+out of vocabulary
+bear j
+pecheur c
+rao g
+disjoint sets
+bernoulli d
+relevance (in information retrieval)
+layers
+cambefort y
+queue
+composite decision process
+natachata
+cazenave t
+nocedal j
+cutting off
+tt-check-all
+conditional
+fifo
+agerbeck c
+nonlin
+nss chess program
+unpop
+backtracking search
+eastlake d e
+apprenticeship
+propositional
+fopc see logic first-order forbes j
+supervised learning
+negative literal
+turbo decoding
+palmer j
+gib
+spiegelhalter d j
+galileo g
+gelly s
+discriminative model
+raphson j
+false alarm (in data association)
+simulated annealing
+regression
+metaphor
+hexapod
+lehmann d
+chomsky n
+fikes r e
+symbolic differentiation
+pippenger n
+limited rationality
+the matrix
+loo b t
+garding j
+gaussian distribution
+q(s a) (value of action in state)
+stiff neck
+swedish
+geman s
+constant symbol
+human performance
+notation
+subcategory
+blind search see search uninformed bliss c i
+graphical model
+westinghouse
+curiosity
+linearization
+michalski r s
+ulysses
+event calculus
+flannery b p
+time expressions
+electronic circuits domain
+sadeh n m
+iwama k
+singly connected network
+sulawesi
+lattice theory
+tadepalli p
+tragedy of the commons
+bo
+evolutionary psychology
+hubs and authorities
+lrta*-cost
+luby m
+ordinal utility
+sunter a
+label (in plans)
+feature (of a state)
+hit list
+compilation
+vitali set
+context-sensitive grammar
+bkg (backgammon program)
+dropping conditions
+interleaving
+ho y-c
+aarup m
+nussbaum m c
+european space agency
+q-learning-agent
+staniland j r
+leaping to conclusions
+harshman r a
+learning curve
+artificial general intelligence
+hml (ml hypothesis)
+universal plan
+joule j
+walker h
+pisa tower of
+existential
+unmanned air vehicle (uav)
+probably approximately correct (pac)
+reactive planning
+schumann j
+beber g
+krogh a
+hybrid a*
+vpi (value of perfect information)
+herbrand’s theorem
+hypothesis
+replacement
+charge-coupled device
+philosophy
+prade h
+uncertainty
+state
+optimization
+trace
+edwards d j
+positive example
+manna z
+huet g
+performance measure
+essig a
+cardano g
+omohundro s
+taxonomic hierarchy
+bayerl s
+distribute ∨ over ∧
+lighthill report
+associative memory
+go (game)
+chronological backtracking
+zadeh l a
+folk psychology
+flaw
+inference rule
+neuroscience
+laser
+sinclair a
+agent program
+hernadvolgyi i
+decision list
+contour (in an image)
+papadopoulo t
+formation
+cox i
+low-dimensional embedding
+ply
+strawberries enjoy
+domination (of heuristics)
+stochastic dominance
+swerling p
+interior-point method
+continuous domains
+liquid event
+robocup
+parse tree
+cameron-jones r m
+page l
+detwarasiti a
+guarded
+coq
+shaked t
+weight
+cnf (conjunctive normal form)
+maven
+aortic coarctation
+cajal s
+symmetry-breaking
+fellbaum c
+min-value
+ontological
+madigan c f
+mossel e
+full
+factoring
+gate (logic)
+angelic
+pinedo m
+parsing
+sparse system
+z
+compositional semantics
+scho¨ning t
+random
+russia
+cambridge
+cell decomposition
+spatial substance
+zuse k
+nonstationary
+roughgarden t
+armando a
+bhar r
+culling
+debugging
+margin
+soar
+blackbox
+kinship domain
+consistent estimation
+abney s
+interpretation
+pseudoexperience
+singer y
+werneck r f
+closed class
+detection failure (in data association)
+elkan c
+resource constraint
+president
+gradient descent
+internet shopping
+no-good
+infix
+laborie p
+node consistency
+sanskrit
+caveman
+maximin
+bar-shalom y
+fung r
+vc dimension
+rabideau g
+stationary distribution
+hu j
+inverse kinematics
+assignment (in a csp)
+resources
+optimal solution
+relevant-states
+occur check
+route finding
+angelic semantics
+linguistics
+fully observable
+kowalski form
+dependency-directed
+billiards
+mu¨ller m
+p (s∗ | s a) (transition model)
+knowledge acquisition
+minkowski distance
+functionalism
+hpp (heuristic programming project)
+least commitment
+consciousness
+passive adp
+shinkareva s v
+of imperfect information
+fellegi i
+fol-fc-ask
+penalty
+achlioptas d
+shape
+wilmer e l
+uniform-cost-search
+boundary set
+vector
+complex words
+information value
+martelli a
+superman
+in speech
+chill
+chickering d m
+colbert
+kanodia n
+beam search
+pascal b
+hyperparameter
+silverstein c
+rouveirol c
+acoustic model
+detachment
+deterministic
+epistemological
+weighted-sample
+bongard j
+technological
+goodman j
+shapiro s c
+friedman n
+n-gram model
+bertot y
+effect axiom
+milgrom p
+brown c
+binary resolution
+aisb (society for artificial intelligence and simulation of behaviour)
+game show
+nonmonotonicity
+value
+optimal control theory
+presley e
+nist
+smith v
+kister j
+love
+temporal projection
+hughes b d
+preston j
+morgan m
+herbrand j
+and-elimination
+class
+rivest r
+learning in
+minimum
+gaifman h
+slant
+ice cream
+object
+aggregation
+planex
+cassandras c g
+frankenstein
+pragmatics
+serina i
+open-universe probability model (oupm)
+urp
+chinook
+relational extraction
+bottou l
+bacon f
+pipeline
+brafman r i
+range finder
+terminal states
+constraint hypergraph
+conspiracy number
+quasi-logical form
+sensorless planning
+particle filtering
+moore’s law
+connective logical
+recursive estimation
+abbeel p
+greedy search
+human judgment
+utility functions
+dias w
+taskar b
+bunt h c
+is-a links
+green c
+vocabulary
+good old-fashioned ai (gofai)
+baum e
+grasping
+declarative bias
+infuence diagram
+bitner j r
+combinatorial
+linearly separable functions
+underconstrained
+mdl
+evans t g
+explanation-based learning (ebl)
+g (path cost)
+bobrow d g
+lex
+syntactic theory (of knowledge)
+stanley
+transfer model (in mt)
+action-utility function
+frame axiom
+sliding window
+diffuse albedo
+meteorite
+ellington c
+second-price
+green b
+p controller
+huber m
+reproduce
+gearhart c
+genetic algorithm
+lrta*-agent
+mogo
+partial evaluation
+pelikan m
+sideways move (in state space)
+bell d a
+shanahan m
+computational theory
+thee and thou
+bradtke s j
+henderson t c
+kotok a
+open class
+fine s
+posterior probability see probability conditional
+geisel t
+point-based
+dnf (disjunctive normal form)
+act
+decision network
+ha¨hnel d
+unit preference
+scheines r
+afsm
+template
+time of flight
+argument
+grammar
+mazumder p
+pragmatic interpretation
+expected
+cowell r
+younger d h
+of logic
+preference constraint
+crato n
+motion planning
+efficient auction
+mateescu r
+assembly sequencing
+lens system
+pennsylvania univ of
+sibyl attack
+dartmouth workshop
+go¨del number
+gps (general problem solver)
+turing award
+model-based
+n queens
+elimination
+temporal logic
+dice
+edelkamp s
+generalized arc consistent
+lexicalized grammar
+reinforcement learning
+sequence form
+logical minimization
+mendel g
+probabalistic
+irreversible
+mean-field approximation
+sequential importance-sampling resampling
+insurance premium
+million queens problem
+otter
+provan g m
+phase transition
+city block distance
+nadal j-p
+utopia
+atkeson c g
+delete list
+church a
+state-action-reward-state-action (sarsa)
+figure of speech
+bishop c m
+quevedo t
+sonar sensors
+strategy-proof
+refutation
+sipe
+mechanism
+antecedent
+breese j s
+top-down
+biddulph r
+srivas m
+bistarelli s
+autonomy
+feed-forward
+fearing r s
+riazanov a
+pauls a
+auton l d
+deliberative layer
+feldman j
+singularity
+revolute joint
+lavalle s
+state estimation
+societies
+samuelsson c
+radio rex
+propositional logic
+default
+everything
+thinking rationally
+property (unary relation)
+successor-state
+bounded
+relevance
+uniform prior
+lrta*
+partee b h
+arc reversal
+neural network
+recommendation
+talplanner
+performance element
+porter b
+relaxed
+tasmania
+lu p
+decomposability
+incentive compatible
+niranjan m
+mht (multiple hypothesis tracker)
+conversion to normal form
+koehler j
+murga r
+data compression
+optimality theory (linguistics)
+roscoe t
+natural numbers
+fixed point
+density estimation
+gold e m
+dialysis
+hmm
+berger j o
+open-loop
+husmeier d
+judgments
+semidynamic
+fastus
+beer factory scheduling
+decision-tree-learning
+batman
+golgi c
+possibility axiom
+conformant planning
+completing the square
+pseudoreward
+wbridge
+gelatt c d
+of money
+voted perceptron
+meehl p
+pronunciation model
+rotation
+the terminator
+ingham m
+lexical category
+production
+self m
+factored representation
+eisner j
+terms
+marcinkiewicz m a
+multiple
+natural kind
+disparity
+foo n
+disjoint
+certainty equivalent
+repeated game
+pengi
+logical positivism
+levin d a
+hamming r w
+jones r
+cyc
+minker j
+abo (asymptotic bounded optimality)
+snarc
+q-learning
+griffiths t
+mexar
+pednault e p d
+monotonicity
+calculus of variations
+vlsi layout
+and-or-graph-search
+procedural attachment
+szepesvari c
+randomized weighted majority algorithm
+schu¨tze h
+standardizing apart
+decayed
+givan r
+complexity
+hog feature
+inherently hard
+appearance
+kinematics
+asimov i
+mcphee n
+peters s
+sapir–whorf hypothesis
+sparse model
+boosting
+hoiem d
+drilling rights
+forward chaining
+itep
+morrison p
+hierholzer c
+active
+ut (best prize)
+constraint optimization problem
+explanation-based generalization
+leacock c
+wegbreit b
+europe
+military uses of ai
+np-complete
+clutter (in data association)
+free will
+kuniyoshi y
+white j l
+depth limit
+johnston m d
+belief revision
+certainty effect
+long-term memory
+optimism under uncertainty
+yvanovich m
+angelic-search
+iid (independent and identically distributed)
+north t
+functional dependency
+neurogammon
+hand d
+objective function
+rate of
+beckert b
+models
+indexed
+connected component
+forward checking
+hedonic calculus
+for speech recognition
+weaver w
+fifth generation project
+motzkin t s
+deterministic environment
+holistic context
+tambe m
+unify-var
+hwa r
+sejnowski t
+pasero r
+syrja¨nen t
+backward chaining
+evidence variable
+cabral j
+poole d
+cassandra a r
+reflectance
+cremers a b
+family tree
+hessian
+pasca m
+salisbury j
+rosenholtz r
+microworld
+scarcello f
+assumption-based
+tlplan
+inverse (of a matrix)
+online planning
+tibshirani r
+baumert l
+level
+geometry theorem prover
+bryant b d
+conjunct
+static
+lizard toasting
+regression to the mean
+sussman g j
+ping-pong
+ullman s
+megarian school
+papert s
+pearl j
+am
+heavy-tailed distribution
+nonserial
+b∗ (branching factor)
+h (entropy)
+india
+bidirectional search
+buntine w
+vehicle interface layer
+darpa
+cross
+bernoulli j
+directed acyclic graph (dag)
+convex optimization
+texture
+inverse reinforcement learning
+noise
+t (fluent holds)
+appearance model
+architecture
+cigol
+formulation of
+slippery
+sour grapes
+workspace representation
+walden w
+photometry
+strong domination
+nine-men’s morris
+as deduction
+exploration
+nasa
+max-value
+lake r
+theocharous g
+equality
+qualitative physics
+varaiya p
+logical inference
+planetary rover
+sequential environment
+subgoal independence
+determinations
+sum of squared differences
+kolmogorov complexity
+sonnet
+earthquake
+logistello
+mutex
+submodularity
+tatman j a
+log likelihood
+hahn m
+long d
+mathematics
+knight b
+billings d
+gp-csp
+soundness (of inference)
+additive
+action exclusion
+lambert’s cosine law
+architecture of
+instance-based learning
+piccione c
+head (of horn clause)
+shmoys d b
+and
+halting
+wahba g
+zecchina r
+botea a
+directed arc consistency
+occupancy grid
+frost d
+ensemble
+lookup table
+nash equilibrium
+almuallim h
+machina m
+superpixels
+campbell w
+parker d b
+portner p
+radar
+checkmate
+information retrieval (ir)
+laplace p
+muscettola n
+prisoner’s dilemma
+backus–naur form (bnf)
+lenat d b
+functionality
+background subtraction
+q-function
+reversi
+mahanti a
+perkins t
+milner a j
+theorem prover
+preference elicitation
+finite-domain
+open-coding
+poetry
+coercion
+milch b
+mohr r
+in continuous state space
+weissman v
+olshen r a
+relevance-based learning (rbl)
+baird l c i
+representation see knowledge representation
+adversarial search
+lesser v r
+meyer u
+reflex-vacuum-agent
+composite
+crossover
+adversarial task
+subproblem
+goal-directed reasoning
+back-propagation
+inductive
+degree of
+ladanyi l
+arnauld a
+othello
+temporal difference learning
+buss d m
+nonlinear
+html
+pursuit–evasion
+amit d
+indexing
+offline search
+rollout
+information sets
+sensor model
+neuron
+strategies
+mpi (mutual preferential
+stone c j
+tsitsiklis j n
+penn treebank
+dissanayake g
+quiescence
+google
+case-based
+turing a
+relational probability model (rpm)
+clp(r)
+unsupervised learning
+olalainty b
+control uncertainty
+singh s
+alpac
+static vs dynamic
+laptev i
+brightness
+channel routing
+unrolling
+morgenstern o
+ball m
+probabilistic
+hanski i
+rpm
+maneva e
+complexity of
+accessibility relations
+condition–action rule
+bekey g
+confirmation theory
+foundations
+noe a
+paradox
+htn
+peeking
+range sensor array
+inverse resolution
+tsp
+zog
+graphplan
+pattern matching
+propagation
+aguirre a
+lehmann j
+plan-ers
+hill-climbing
+version-space-update
+cumulative distribution
+causation
+ai winter
+and mysticism
+young s j
+network
+existential graph
+eliza
+optimum-aiv
+downward refinement property
+reiter r
+shieber s
+person c
+value-iteration
+refutation completeness
+decision lists
+imperfect information
+vector space model
+yudkowsky e
+durrant-whyte h
+discretization
+cristianini n
+skolemization
+horning j j
+interval
+inverse game theory
+likelihood weighting
+checkers
+yedidia j
+head
+horn a
+shankar n
+dominant strategy equilibrium
+radial basis function
+deep thought
+procedural approach
+knoblock c a
+local optimum
+regret
+spin
+piano movers
+dag
+uninformed search
+brent r p
+sampling rate
+ekart a
+maxplan
+kephart j o
+compositionality
+boroditsky l
+background knowledge
+turk
+baldi p
+of chinese room
+drebbel c
+nondeterministic
+adelson-velsky g m
+consequent
+furst m
+leone n
+papadimitriou c h
+information gathering
+from informality
+casteran p
+evaluation function
+cutset
+trial
+fagin r
+incremental learning
+bridge baron
+lcf
+middleton b
+ehrenfeucht a
+slater e
+ethics
+expressiveness (of a representation scheme)
+mutual exclusion
+sensorless
+binomial nomenclature
+conditioning
+k-consistency
+tennis
+backtrack
+hurst m
+pinhole
+simulation of world
+state variable
+inclusion–exclusion principle
+random restart
+loomes g
+croft w b
+connect four
+psychology
+lavrauc n
+dynamic decision network
+kraus s
+unification
+palacios h
+incremental belief-state
+arbuthnot j
+rashevsky n
+competitive ratio
+palmer s
+partition
+coates a
+disjunct
+bessie`re c
+rational agent
+decision analysis
+decision tree
+sphex wasp
+coarfa c
+svetnik v b
+ordering
+wolfe j
+interleaving (search and action)
+cpsc ix
+perlis a
+deacon t w
+sat
+mdp
+pl-resolution
+segmentation (of an image)
+church k
+possible world
+transition probability
+synchro drive
+in game theory
+high level action
+corpus
+cutoff test
+human-level ai
+bellman update
+schauenberg t
+adaboost
+shi j
+bates m a
+constraint
+mausam
+brains cause minds
+eurisko
+tabled
+of set theory
+dendral
+getoor l
+charest l
+calculative
+cooper g
+braverman e
+dorf r c
+widrow–hoff rule
+conditional plan
+dominance
+interpretations
+peano
+haslum p
+murthy c
+carnegie mellon university
+dreyfus s e
+frame problem
+feiten w
+ritov y
+roberts l g
+random-restart
+durfee e h
+good i j
+multivariate
+instance (of a schema)
+gibbs sampling
+conditional nonparametric
+feature (in speech)
+retrograde
+rule
+softbot
+chance of winning
+mental model in disambiguation
+humanoid robot
+overhypotheses
+hope j
+uncertain environment
+term rewriting
+carnap r
+moore r c
+nonholonomic
+constrained
+realizability
+moore a
+logical
+peirce c s
+demodulation
+foreshortening
+micromort
+simultaneous localization and mapping
+camera
+empirical gradient
+arity
+na¨ım p
+silver d
+world state
+friedman j
+bayardo r j
+pesch e
+backtracking
+medical diagnosis
+proprioceptive sensor
+cohn a g
+truth maintenance system (tms)
+adl (action description language)
+bowling m
+arkin r
+airport driving to
+stemming
+justification-based
+cell layout
+goel a
+parzen e
+world
+explored set
+execution
+hybrid architecture
+ordinal
+klemperer p
+collin z
+gain parameter
+mapgen
+matuszek c
+gamberini l
+dependency
+minimax algorithm
+absolute
+n-armed bandit
+inferential frame problem
+turing machine
+reeves c
+recurrent network
+intractability
+null
+rybka
+saturation
+searle j r
+salomaa a
+alignment method
+nalwa v s
+davis e
+frank i
+muslea i
+search tree
+population (in genetic algorithms)
+brelaz d
+multilayer
+conservative approximation
+euclid
+boneh d
+dredze m
+chase a
+dolphin
+valiant l
+clocksin w f
+constraint logic programming
+varzi a
+psychophysics
+go
+gaussian filter
+henzinger t a
+single-agent
+rationalism
+freddy
+p (probability vector)
+brownston l
+bidirectional
+conclusion (of an implication)
+representation theorem
+category
+rewrite rule
+distribution
+machine learning
+computational linguistics
+complete data
+software agent
+ashby w r
+sealed-bid
+cognitive psychology
+prefix
+strohm g
+computability
+value determination
+intelligent
+peas description
+expansion (of states)
+satz
+palay a j
+control theory
+riley j
+scaled orthographic projection
+breadth-first
+variabilization (in ebl)
+samuelson w
+social laws
+cowan j d
+hsp
+density function
+reification
+tikhonov a n
+upper ontology
+prototypes
+weight space
+dearden r
+brill e
+constructive
+homeostatic
+shaft decoder
+induction
+semantic interpretation
+first-choice
+shakey
+stork d g
+adaptive
+strategic form
+spacecraft assembly
+zhai c
+error rate
+subsumption architecture
+nilsson d
+optimistic prior
+good–turing smoothing
+shortest path
+of natural language
+equality symbol
+dcg
+processing
+alpha-beta-search
+cmu
+goal
+depth of field
+bertsekas d
+aristotle
+futility
+stupid pet tricks
+discrete event
+limited
+unit (in a neural network)
+clarke a c
+kuijpers c
+cabeza r
+mooney r
+svestka p
+hub
+augmented finite state machine (afsm)
+synonymy
+niles i
+information extraction
+mutual preferential independence (mpi)
+context-sensitive
+reflex
+adaptive dynamic programming
+laruelle h
+lawaly
+or
+binmore k
+roche e
+grue
+inferential equivalence
+in athens
+identity
+auer s
+szathma´ry e
+zollmann a
+wittgenstein l
+optimistic description (of an action)
+nobel prize
+incompleteness
+policy-iteration
+successor function
+cournot competition
+mutual utility independence (mui)
+hunkapiller t
+raiffa h
+laws of
+larkey p d
+differential drive
+theorem proving
+yale
+c (step cost)
+augmentation
+database semantics
+rabinovich y
+temporal reasoning
+traverso p
+stationarity (for preferences)
+conformant
+prioritized
+rational thought
+computer
+dpll-satisfiable?
+goodman n
+berlekamp e r
+optical flow
+vector field histograms
+nardi d
+belief
+acero a
+argmax
+love n
+walker e
+morgenstern l
+rassenti s
+samuelson l
+question answering
+benchmarking
+coin flip
+heuristic programming project (hpp)
+grumberg o
+visser u
+woods w a
+caching
+liquid
+mackay d j c
+cyclic solution
+feature extraction
+literal watched
+probability prior undecidability
+tomasi c
+goal predicate
+singular
+applications of
+halgren e
+spatial reasoning
+typical instance
+pragmatic
+ma* search
+existence
+compagna l
+manning c
+cesta a
+damerau f
+variational approximation
+stefik m
+normalized
+pixel
+sigart
+richter s
+trichromacy
+harada d
+short-term memory
+primitive
+loveland d
+agichtein e
+pomdp-value-iteration
+complete-state formulation
+part of
+ingerman p z
+meningitis
+hierarchical
+semantic web
+segmentation
+contingency planning
+subfields
+yarowsky d
+task environment
+garofalakis m
+entropy
+utility
+krause a
+degree
+hacker
+abstraction
+computational power
+failure
+chklovski t
+successor-state axiom
+connectionism
+motion blur
+syntactic categories
+replanning
+smith a
+park s
+srivastava b
+or node
+conflict-directed backjumping
+horswill i
+boyle j
+dechter r
+iwasawa s
+game-playing
+condition–action
+total cost
+fristedt b
+vanishing point
+hidden variables
+wexler y
+twin earths
+stoica i
+multiplayer
+tirole j
+default value
+puterman m l
+uosat-ii
+croft b
+fixed-lag-smoothing
+fratini s
+local for csps
+improvement
+campbell m s
+hydraulic
+validation
+first
+parallel distributed processing see
+cushing w
+pohl i
+dedekind r
+bgblitz
+link
+mumford d
+general
+shaparau d
+possibility theory
+hobbes t
+churchland p s
+expressiveness
+parallel search
+japan
+game tree
+swade d
+autonomic computing
+inductive logic programming (ilp)
+smith a f m
+representational power
+value of perfect information
+voronoi graph
+agreement (in a sentence)
+quadratic programming
+b*
+cart–pole problem
+learning rule
+soft margin
+darpa grand challenge
+solomonoff r j
+empirical
+sakuta m
+spass
+shoham y
+false negative
+serializable subgoals
+understanding
+brahmagupta
+derived sentences
+subramanian d
+asymptotic bounded optimality
+feature selection
+axiom
+time
+coordinate frame
+characters
+clarke m r b
+a*
+mellish c s
+detailed balance
+dualism
+preference
+spatial
+psychological reasoning
+knowledge-based system
+commercial
+hoffmann j
+identity uncertainty
+leipzig
+shrdlu
+geman d
+anderson c r
+jaguar
+abstraction hierarchy
+variational parameter
+determination
+bratko i
+hearst m a
+relational
+maximum expected utility
+nqthm
+expected utility
+millstein t
+penguin
+predecessor
+unique names assumption
+voronkov a
+ijcai (international joint conference on ai)
+shortliffe e h
+exploration function
+chauvin y
+model
+error function
+matrix
+threshold function
+qi r
+huyn n
+hardware
+leaf node
+murakami t
+bayes’ rule
+bryce d
+apparent motion
+medical
+reactive layer
+bizer c
+chain rule (for probabilities)
+in probability
+gilmore p c
+rejection-sampling
+stuckey p j
+synthesis
+free space
+knowledge in
+needle in a haystack
+negation
+quirk r
+beta
+continuity (of preferences)
+weidenbach c
+giunchiglia e
+lauritzen s
+declarativism
+shadow
+skolem constant
+solution
+proper
+reflective
+stability
+theory of
+qualification problem
+rich e
+set of support
+phone (speech sound)
+steiner w
+ergodic
+god existence of
+legal reasoning
+memory-bounded
+wilson r a
+horowitz e
+shatkay h
+input
+complementary literals
+goldszmidt m
+path consistency
+pell b
+level sum
+minimal
+greedy best-first
+myopic policy
+step size
+(in representation)
+hunt w
+roossin p
+space complexity
+tarski a
+bowden b v
+persistent failure model
+rayner m
+tuple
+reactive
+perceptron
+sahni s
+incremental formulation
+multiplexer
+convince
+etzioni o
+prades j l p
+consortium t g o
+generalization hierarchy
+anbulagan
+statistical mechanics
+cognitive
+speech recognition
+feigenbaum e a
+unbiased (estimator)
+function symbol
+decentralized
+dynamic environment
+munin
+tate a
+ng a y
+number theory
+denis f
+part of speech
+petrik m
+world wide web (www)
+minimax
+theseus
+clarke e
+horizon effect
+temporal substance
+williamson j
+santorini b
+kanade t
+sosic r
+chatfield c
+problem
+normal–wishart
+lassila o
+horn form
+fischer b
+lexicon
+slam
+diaconis p
+automated taxi
+ludlow p
+mates b
+narrow content
+route
+test set
+textrunner
+batch
+rieger c
+gooday j m
+duffy d
+laws of thought
+hybrid-wumpus-agent
+hybrid
+burges c
+blakeslee s
+pijls w
+creativity
+deep belief networks
+outcome
+xu p
+morris p
+allais paradox
+conditional effect
+wertheimer m
+atemporal
+rats
+mozetic i
+td-gammon
+convergence theorem
+dunham c
+friendly ai
+whittaker w
+gionis a
+gent i
+asymptotic analysis
+probabilistic network see bayesian network
+solving
+cortes c
+active learning
+filtering
+grosof b
+belle
+set (in first-order logic)
+split point
+zisserman a
+ji s
+frontier
+problem-solving
+stallman r m
+serendipity
+ssd (sum of squared differences)
+chain rule (for differentiation)
+fly eyes
+atom
+partially observable (pomdp)
+bachelor
+closed list see explored set clp
+automata
+yakimovsky y
+quantifier
+satisfaction (in logic)
+a* search
+atomic
+photosensitive spot
+contour (of a state space)
+gomes c
+patil r
+stereo vision
+pac learning
+davies t r
+brock b
+leave-one-out cross-validation (loocv)
+definite clause
+nlp (natural language processing)
+wu e
+synchronization
+sittler r w
+chronicles
+ghallab m
+sussman anomaly
+higher-order
+makespan
+teller e
+light
+janitorial science
+horizon (in mdps)
+polynomial
+pid controller
+fixation
+wam
+parzen window
+saund e
+shalla l
+cantor c r
+ipp
+mueller e t
+hays j
+intercausal reasoning
+porphyry
+cross-validation
+arpabet
+symmetry breaking (in csps)
+backing up (in a search tree)
+witbrock m
+objectivism
+franco j
+dominated plan (in pomdp)
+: a space odyssey
+livnat a
+protein design
+exogenous
+gotts n
+local search
+ipl
+harabagiu s m
+semidynamic environment
+taxonomy
+interlingua
+topological sort
+belief network see bayesian network belief propagation
+human preference
+shah j
+prediction
+dlv
+warmuth m
+alhazen
+agent function
+schoenberg i j
+transient failure model
+goals of
+mass noun
+latent dirichlet allocation
+cnlp
+of a search algorithm
+firth j
+total
+goertzel b
+kahneman d
+perfect
+mccorduck p
+common sense
+join tree
+rsat
+vere s a
+stanfill c
+speech act
+english
+cpcs
+dowling w f
+holte r
+sir
+forward-backward
+locally structured system
+color
+daganzo c
+hopfield j j
+tactile sensors
+fluent
+princeton
+xor
+interpolation smoothing
+for decision-theoretic systems
+atomic representation
+audi r
+computational
+critic (in learning)
+extensive form
+goal test
+indicator variable
+switching
+proust m
+closed-world assumption
+early stopping
+skolem t
+for robots
+bengio s
+fact
+stationary process
+from disability
+time complexity
+viterbi algorithm
+objective case
+constraint learning

@@ -1,0 +1,25 @@
+df_tagged
+    Document# Sentence# Word#  ... Start  End Dependency
+0           1         0     0  ...     0   15      nsubj
+1           1         0     1  ...    17   30       ROOT
+2           1         0     2  ...    32   34     advmod
+3           1         0     3  ...    36   41      xcomp
+4           1         0     4  ...    42   42      punct
+..        ...       ...   ...  ...   ...  ...        ...
+118         1         6   118  ...   840  849      nsubj
+119         1         6   119  ...   851  859     advmod
+120         1         6   120  ...   861  883       ROOT
+121         1         6   121  ...   885  901       pobj
+122         1         6   122  ...   902  902      punct
+
+[123 rows x 12 columns]
+
+corefs
+[['it', "The agent's task"], ['it', "The agent's task"], ['it', "The agent's task"], ['its', "The agent's task"], ['it', "The agent's task"], ['it', "The agent's task"], ['its', 'the agent'], ['us', 'We']]
+
+doc_triples
+[["The agent's task", 'reaches', 'a goal state'], ["The agent's task", 'can do', 'this'], ["The agent's task", 'can do', "The agent's task"], ['this', 'needs to decide', '(or we need to decide on its behalf)'], ["The agent's task", 'needs to decide', '(or we need to decide on its behalf)'], ['(or we need to decide on its behalf)', 'sorts of', 'actions'], ['actions', 'states', "The agent's task"], ["The agent's task", 'were to consider', 'actions'], ['actions', 'at', 'the level'], ['the steering wheel one degree', 'left', 'the agent'], ['that level of detail', 'is', 'too much uncertainty'], ['too much uncertainty', 'in', 'the world'], ['the world', 'would be', 'too many steps'], ['too many steps', 'in', 'a solution'], ['Problem formulation', 'is', 'the process'], ['the process', 'of deciding', 'what actions'], ['the process', 'of deciding', 'states'], ['what actions', 'given', 'a goal'], ['states', 'given', 'a goal'], ['We', 'discuss', 'this process'], ['this process', 'in', 'more detail'], ['We', 'assume that', 'the agent'], ['the agent', 'will consider', 'actions'], ['actions', 'at', 'the level'], ['the level', 'of driving from', 'one major town'], ['one major town', 'to', 'another'], ['Each state', 'corresponds to being in', 'a particular town']]
+
+all_triples
+[["The agent's task", 'reaches', 'a goal state'], ["The agent's task", 'can do', 'this'], ["The agent's task", 'can do', "The agent's task"], ['this', 'needs to decide', '(or we need to decide on its behalf)'], ["The agent's task", 'needs to decide', '(or we need to decide on its behalf)'], ['(or we need to decide on its behalf)', 'sorts of', 'actions'], ['actions', 'states', "The agent's task"], ["The agent's task", 'were to consider', 'actions'], ['actions', 'at', 'the level'], ['the steering wheel one degree', 'left', 'the agent'], ['that level of detail', 'is', 'too much uncertainty'], ['too much uncertainty', 'in', 'the world'], ['the world', 'would be', 'too many steps'], ['too many steps', 'in', 'a solution'], ['Problem formulation', 'is', 'the process'], ['the process', 'of deciding', 'what actions'], ['the process', 'of deciding', 'states'], ['what actions', 'given', 'a goal'], ['states', 'given', 'a goal'], ['We', 'discuss', 'this process'], ['this process', 'in', 'more detail'], ['We', 'assume that', 'the agent'], ['the agent', 'will consider', 'actions'], ['the level', 'of driving from', 'one major town'], ['one major town', 'to', 'another'], ['Each state', 'corresponds to being in', 'a particular town']]
+
