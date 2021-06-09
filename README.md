@@ -1,3 +1,6 @@
+This work is inspired by the work of University of Western Australia.
+The major change has been done in the form of domain specific Knowledge graph by utilizing the entities present in the index of a textbook, and selecting triples only containing specific entities as compared to earlier every possible entities.
+
 # Candidate Extraction 
 
 We found that the best graph edit distance scores were obtained using our Candidate Extraction model.
